@@ -4,7 +4,7 @@
 
 Explore the Ontario Infectious Disease Intelligence dashboard online.
 
-**[Launch Interactive Dashboard](https://YOUR-APP-NAME.streamlit.app/)**
+**[Launch Interactive Dashboard](https://ontario-infectious-disease-intelligence-honarvar.streamlit.app/)**
 
 Interactive visualizations, disease surveillance trends, and public health analytics.
 
