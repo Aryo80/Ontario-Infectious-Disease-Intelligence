@@ -5,6 +5,7 @@ Reproducible infectious-disease surveillance analytics and an interactive dashbo
 
 ### 🚀 [Explore the Live Dashboard](https://ontario-infectious-disease-intelligence-honarvar.streamlit.app/)
 
+
 [![Python](https://img.shields.io/badge/Python-3.11%2B-2563EB)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-0D9488)](https://streamlit.io/)
 [![Plotly](https://img.shields.io/badge/Plotly-Interactive_Charts-2563EB)](https://plotly.com/python/)
@@ -13,10 +14,6 @@ Reproducible infectious-disease surveillance analytics and an interactive dashbo
 
 ---
 
-## Project Overview
-
-
-> **Portfolio project:** All surveillance data are aggregated, not individual patient records. This project is not a real-time surveillance service or a clinical decision-support tool.
 
 ## Project Overview
 
