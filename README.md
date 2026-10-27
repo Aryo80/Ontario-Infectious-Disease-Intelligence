@@ -1,5 +1,14 @@
 # Ontario Infectious Disease Intelligence
 
+## Live Interactive Dashboard
+
+Explore the Ontario Infectious Disease Intelligence dashboard online.
+
+**[Launch Interactive Dashboard](https://YOUR-APP-NAME.streamlit.app/)**
+
+Interactive visualizations, disease surveillance trends, and public health analytics.
+
+
 **Reproducible infectious-disease surveillance analytics and an interactive, two-disease comparison dashboard for Ontario (2016–2025).**
 
 [![Python](https://img.shields.io/badge/Python-3.11%2B-2563EB)](https://www.python.org/) [![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-0D9488)](https://streamlit.io/) [![Plotly](https://img.shields.io/badge/Plotly-Interactive_Charts-2563EB)](https://plotly.com/python/)
