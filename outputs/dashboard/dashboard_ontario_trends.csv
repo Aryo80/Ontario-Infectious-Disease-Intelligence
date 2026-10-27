@@ -1,0 +1,631 @@
+Disease,Year,Cases,Population,"Rate per 100,000",Rate_available
+Acquired immunodeficiency syndrome (AIDS),2016,66,13876500,0.48,True
+Acquired immunodeficiency syndrome (AIDS),2017,64,14078499,0.45,True
+Acquired immunodeficiency syndrome (AIDS),2018,73,14326746,0.51,True
+Acquired immunodeficiency syndrome (AIDS),2019,64,14573565,0.44,True
+Acquired immunodeficiency syndrome (AIDS),2020,66,14761811,0.45,True
+Acquired immunodeficiency syndrome (AIDS),2021,61,14842488,0.41,True
+Acquired immunodeficiency syndrome (AIDS),2022,75,15155836,0.49,True
+Acquired immunodeficiency syndrome (AIDS),2023,70,15632481,0.45,True
+Acquired immunodeficiency syndrome (AIDS),2024,46,16144797,0.28,True
+Acquired immunodeficiency syndrome (AIDS),2025,43,16258260,0.26,True
+Acute Flaccid Paralysis,2016,7,2240613,0.31,True
+Acute Flaccid Paralysis,2017,4,2256596,0.18,True
+Acute Flaccid Paralysis,2018,15,2279542,0.66,True
+Acute Flaccid Paralysis,2019,1,2297566,0.04,True
+Acute Flaccid Paralysis,2020,0,2311699,0.0,True
+Acute Flaccid Paralysis,2021,1,2307350,0.04,True
+Acute Flaccid Paralysis,2022,1,2315457,0.04,True
+Acute Flaccid Paralysis,2023,2,2333241,0.09,True
+Acute Flaccid Paralysis,2024,5,2365796,0.21,True
+Acute Flaccid Paralysis,2025,1,2371667,0.04,True
+Amebiasis,2016,99,13876500,0.71,True
+Amebiasis,2017,103,14078499,0.73,True
+Amebiasis,2018,97,14326746,0.68,True
+Amebiasis,2019,71,14573565,0.49,True
+Amebiasis,2020,38,14761811,0.26,True
+Amebiasis,2021,43,14842488,0.29,True
+Amebiasis,2022,57,15155836,0.38,True
+Amebiasis,2023,82,15632481,0.52,True
+Amebiasis,2024,91,16144797,0.56,True
+Amebiasis,2025,90,16258260,0.55,True
+Anaplasmosis,2023,38,15632481,0.24,True
+Anaplasmosis,2024,163,16144797,1.0,True
+Anaplasmosis,2025,315,16258260,1.9,True
+Anthrax,2016,0,0,,False
+Anthrax,2017,0,0,,False
+Anthrax,2018,0,0,,False
+Anthrax,2019,0,0,,False
+Anthrax,2020,0,0,,False
+Anthrax,2021,0,0,,False
+Anthrax,2022,0,0,,False
+Anthrax,2023,0,0,,False
+Anthrax,2024,0,0,,False
+Anthrax,2025,0,0,,False
+Babesiosis,2023,17,15632481,0.11,True
+Babesiosis,2024,4,16144797,0.02,True
+Babesiosis,2025,3,16258260,0.02,True
+Blastomycosis,2018,64,14326746,0.45,True
+Blastomycosis,2019,88,14573565,0.6,True
+Blastomycosis,2020,54,14761811,0.37,True
+Blastomycosis,2021,104,14842488,0.7,True
+Blastomycosis,2022,105,15155836,0.69,True
+Blastomycosis,2023,125,15632481,0.8,True
+Blastomycosis,2024,114,16144797,0.71,True
+Blastomycosis,2025,83,16258260,0.51,True
+Botulism,2016,0,13876500,0.0,True
+Botulism,2017,0,14078499,0.0,True
+Botulism,2018,3,14326746,0.02,True
+Botulism,2019,2,14573565,0.01,True
+Botulism,2020,0,14761811,0.0,True
+Botulism,2021,0,14842488,0.0,True
+Botulism,2022,3,15155836,0.02,True
+Botulism,2023,3,15632481,0.02,True
+Botulism,2024,1,16144797,0.01,True
+Botulism,2025,3,16258260,0.02,True
+Brucellosis,2016,3,13876500,0.02,True
+Brucellosis,2017,2,14078499,0.01,True
+Brucellosis,2018,11,14326746,0.08,True
+Brucellosis,2019,5,14573565,0.03,True
+Brucellosis,2020,6,14761811,0.04,True
+Brucellosis,2021,4,14842488,0.03,True
+Brucellosis,2022,6,15155836,0.04,True
+Brucellosis,2023,6,15632481,0.04,True
+Brucellosis,2024,11,16144797,0.07,True
+Brucellosis,2025,3,16258260,0.02,True
+Campylobacter Enteritis,2016,3443,13876500,24.8,True
+Campylobacter Enteritis,2017,3472,14078499,24.7,True
+Campylobacter Enteritis,2018,3438,14326746,24.0,True
+Campylobacter Enteritis,2019,3235,14573565,22.2,True
+Campylobacter Enteritis,2020,1997,14761811,13.5,True
+Campylobacter Enteritis,2021,2215,14842488,14.9,True
+Campylobacter Enteritis,2022,2161,15155836,14.3,True
+Campylobacter Enteritis,2023,2530,15632481,16.2,True
+Campylobacter Enteritis,2024,2527,16144797,15.7,True
+Campylobacter Enteritis,2025,2436,16258260,15.0,True
+Candida auris infection,2025,2,16258260,0.01,True
+Carbapenemase-producing Enterobacteriaceae (CPE),2018,207,14326746,1.4,True
+Carbapenemase-producing Enterobacteriaceae (CPE),2019,412,14573565,2.8,True
+Carbapenemase-producing Enterobacteriaceae (CPE),2020,304,14761811,2.1,True
+Carbapenemase-producing Enterobacteriaceae (CPE),2021,314,14842488,2.1,True
+Carbapenemase-producing Enterobacteriaceae (CPE),2022,593,15155836,3.9,True
+Carbapenemase-producing Enterobacteriaceae (CPE),2023,879,15632481,5.6,True
+Carbapenemase-producing Enterobacteriaceae (CPE),2024,1142,16144797,7.1,True
+Carbapenemase-producing Enterobacteriaceae (CPE),2025,1196,16258260,7.4,True
+Chancroid,2016,0,0,,False
+Chancroid,2017,0,0,,False
+Chancroid,2018,0,0,,False
+Chancroid,2019,0,0,,False
+Chancroid,2020,0,0,,False
+Chancroid,2021,0,0,,False
+Chancroid,2022,0,0,,False
+Chancroid,2023,0,0,,False
+Chancroid,2024,0,0,,False
+Chancroid,2025,0,0,,False
+Chickenpox (Varicella),2016,271,13876500,2.0,True
+Chickenpox (Varicella),2017,276,14078499,2.0,True
+Chickenpox (Varicella),2018,293,14326746,2.0,True
+Chickenpox (Varicella),2019,402,14573565,2.8,True
+Chickenpox (Varicella),2020,179,14761811,1.2,True
+Chickenpox (Varicella),2021,229,14842488,1.5,True
+Chickenpox (Varicella),2022,372,15155836,2.5,True
+Chickenpox (Varicella),2023,614,15632481,3.9,True
+Chickenpox (Varicella),2024,808,16144797,5.0,True
+Chickenpox (Varicella),2025,788,16258260,4.8,True
+Chlamydial Infections,2016,41860,13876500,301.7,True
+Chlamydial Infections,2017,44672,14078499,317.3,True
+Chlamydial Infections,2018,47931,14326746,334.6,True
+Chlamydial Infections,2019,51562,14573565,353.8,True
+Chlamydial Infections,2020,37138,14761811,251.6,True
+Chlamydial Infections,2021,35426,14842488,238.7,True
+Chlamydial Infections,2022,38966,15155836,257.1,True
+Chlamydial Infections,2023,45757,15632481,292.7,True
+Chlamydial Infections,2024,42824,16144797,265.2,True
+Chlamydial Infections,2025,38467,16258260,236.6,True
+Cholera,2016,0,13876500,0.0,True
+Cholera,2017,5,14078499,0.04,True
+Cholera,2018,0,14326746,0.0,True
+Cholera,2019,3,14573565,0.02,True
+Cholera,2020,1,14761811,0.01,True
+Cholera,2021,0,14842488,0.0,True
+Cholera,2022,3,15155836,0.02,True
+Cholera,2023,0,15632481,0.0,True
+Cholera,2024,1,16144797,0.01,True
+Cholera,2025,2,16258260,0.01,True
+Clostridium difficile infection (CDI) outbreaks in hospitals,2016,12,0,,False
+Clostridium difficile infection (CDI) outbreaks in hospitals,2017,14,0,,False
+Clostridium difficile infection (CDI) outbreaks in hospitals,2018,6,0,,False
+Clostridium difficile infection (CDI) outbreaks in hospitals,2019,9,0,,False
+Clostridium difficile infection (CDI) outbreaks in hospitals,2020,7,0,,False
+Clostridium difficile infection (CDI) outbreaks in hospitals,2021,4,0,,False
+Clostridium difficile infection (CDI) outbreaks in hospitals,2022,6,0,,False
+Clostridium difficile infection (CDI) outbreaks in hospitals,2023,3,0,,False
+Clostridium difficile infection (CDI) outbreaks in hospitals,2024,6,0,,False
+Clostridium difficile infection (CDI) outbreaks in hospitals,2025,8,0,,False
+"Creutzfeldt-Jakob Disease, All Types",2016,8,13876500,0.06,True
+"Creutzfeldt-Jakob Disease, All Types",2017,9,14078499,0.06,True
+"Creutzfeldt-Jakob Disease, All Types",2018,13,14326746,0.09,True
+"Creutzfeldt-Jakob Disease, All Types",2019,10,14573565,0.07,True
+"Creutzfeldt-Jakob Disease, All Types",2020,9,14761811,0.06,True
+"Creutzfeldt-Jakob Disease, All Types",2021,8,14842488,0.05,True
+"Creutzfeldt-Jakob Disease, All Types",2022,7,15155836,0.05,True
+"Creutzfeldt-Jakob Disease, All Types",2023,14,15632481,0.09,True
+"Creutzfeldt-Jakob Disease, All Types",2024,5,16144797,0.03,True
+"Creutzfeldt-Jakob Disease, All Types",2025,2,16258260,0.01,True
+Cryptosporidiosis,2016,429,13876500,3.1,True
+Cryptosporidiosis,2017,392,14078499,2.8,True
+Cryptosporidiosis,2018,757,14326746,5.3,True
+Cryptosporidiosis,2019,815,14573565,5.6,True
+Cryptosporidiosis,2020,473,14761811,3.2,True
+Cryptosporidiosis,2021,512,14842488,3.4,True
+Cryptosporidiosis,2022,457,15155836,3.0,True
+Cryptosporidiosis,2023,539,15632481,3.4,True
+Cryptosporidiosis,2024,847,16144797,5.2,True
+Cryptosporidiosis,2025,563,16258260,3.5,True
+Cyclosporiasis,2016,274,13876500,2.0,True
+Cyclosporiasis,2017,292,14078499,2.1,True
+Cyclosporiasis,2018,269,14326746,1.9,True
+Cyclosporiasis,2019,449,14573565,3.1,True
+Cyclosporiasis,2020,351,14761811,2.4,True
+Cyclosporiasis,2021,98,14842488,0.66,True
+Cyclosporiasis,2022,488,15155836,3.2,True
+Cyclosporiasis,2023,663,15632481,4.2,True
+Cyclosporiasis,2024,424,16144797,2.6,True
+Cyclosporiasis,2025,370,16258260,2.3,True
+Diphtheria,2016,0,0,,False
+Diphtheria,2017,0,0,,False
+Diphtheria,2018,0,0,,False
+Diphtheria,2019,0,0,,False
+Diphtheria,2020,0,0,,False
+Diphtheria,2021,0,0,,False
+Diphtheria,2022,0,0,,False
+Diphtheria,2023,0,0,,False
+Diphtheria,2024,0,0,,False
+Diphtheria,2025,0,0,,False
+Echinococcus Multilocularis Infection,2016,0,13876500,0.0,True
+Echinococcus Multilocularis Infection,2017,0,14078499,0.0,True
+Echinococcus Multilocularis Infection,2018,1,14326746,0.01,True
+Echinococcus Multilocularis Infection,2019,0,14573565,0.0,True
+Echinococcus Multilocularis Infection,2020,1,14761811,0.01,True
+Echinococcus Multilocularis Infection,2021,0,14842488,0.0,True
+Echinococcus Multilocularis Infection,2022,4,15155836,0.03,True
+Echinococcus Multilocularis Infection,2023,0,15632481,0.0,True
+Echinococcus Multilocularis Infection,2024,0,16144797,0.0,True
+Echinococcus Multilocularis Infection,2025,0,16258260,0.0,True
+Giardiasis,2016,1220,13876500,8.8,True
+Giardiasis,2017,1417,14078499,10.1,True
+Giardiasis,2018,1544,14326746,10.8,True
+Giardiasis,2019,1300,14573565,8.9,True
+Giardiasis,2020,854,14761811,5.8,True
+Giardiasis,2021,790,14842488,5.3,True
+Giardiasis,2022,821,15155836,5.4,True
+Giardiasis,2023,1067,15632481,6.8,True
+Giardiasis,2024,1342,16144797,8.3,True
+Giardiasis,2025,1100,16258260,6.8,True
+Gonorrhoea (All Types),2016,6785,13876500,48.9,True
+Gonorrhoea (All Types),2017,7843,14078499,55.7,True
+Gonorrhoea (All Types),2018,10435,14326746,72.8,True
+Gonorrhoea (All Types),2019,11149,14573565,76.5,True
+Gonorrhoea (All Types),2020,9123,14761811,61.8,True
+Gonorrhoea (All Types),2021,9824,14842488,66.2,True
+Gonorrhoea (All Types),2022,11744,15155836,77.5,True
+Gonorrhoea (All Types),2023,14189,15632481,90.8,True
+Gonorrhoea (All Types),2024,13607,16144797,84.3,True
+Gonorrhoea (All Types),2025,12684,16258260,78.0,True
+"Group A Streptococcal Disease, Invasive",2016,717,13876500,5.2,True
+"Group A Streptococcal Disease, Invasive",2017,935,14078499,6.6,True
+"Group A Streptococcal Disease, Invasive",2018,1143,14326746,8.0,True
+"Group A Streptococcal Disease, Invasive",2019,1103,14573565,7.6,True
+"Group A Streptococcal Disease, Invasive",2020,1056,14761811,7.2,True
+"Group A Streptococcal Disease, Invasive",2021,811,14842488,5.5,True
+"Group A Streptococcal Disease, Invasive",2022,923,15155836,6.1,True
+"Group A Streptococcal Disease, Invasive",2023,2001,15632481,12.8,True
+"Group A Streptococcal Disease, Invasive",2024,1793,16144797,11.1,True
+"Group A Streptococcal Disease, Invasive",2025,1618,16258260,10.0,True
+"Group B Streptococcal Disease, Neonatal",2016,49,140182,35.0,True
+"Group B Streptococcal Disease, Neonatal",2017,52,139765,37.2,True
+"Group B Streptococcal Disease, Neonatal",2018,57,139227,40.9,True
+"Group B Streptococcal Disease, Neonatal",2019,35,141068,24.8,True
+"Group B Streptococcal Disease, Neonatal",2020,28,136260,20.5,True
+"Group B Streptococcal Disease, Neonatal",2021,46,140021,32.9,True
+"Group B Streptococcal Disease, Neonatal",2022,31,134497,23.0,True
+"Group B Streptococcal Disease, Neonatal",2023,47,136638,34.4,True
+"Group B Streptococcal Disease, Neonatal",2024,33,136638,24.2,True
+"Group B Streptococcal Disease, Neonatal",2025,37,136638,27.1,True
+HIV,2016,833,13876500,6.0,True
+HIV,2017,833,14078499,5.9,True
+HIV,2018,891,14326746,6.2,True
+HIV,2019,969,14573565,6.6,True
+HIV,2020,711,14761811,4.8,True
+HIV,2021,653,14842488,4.4,True
+HIV,2022,909,15155836,6.0,True
+HIV,2023,1396,15632481,8.9,True
+HIV,2024,1184,16144797,7.3,True
+HIV,2025,746,16258260,4.6,True
+"Haemophilus Influenzae Disease, All Types, Invasive",2016,4,13876500,0.03,True
+"Haemophilus Influenzae Disease, All Types, Invasive",2017,7,14078499,0.05,True
+"Haemophilus Influenzae Disease, All Types, Invasive",2018,202,14326746,1.4,True
+"Haemophilus Influenzae Disease, All Types, Invasive",2019,302,14573565,2.1,True
+"Haemophilus Influenzae Disease, All Types, Invasive",2020,125,14761811,0.85,True
+"Haemophilus Influenzae Disease, All Types, Invasive",2021,83,14842488,0.56,True
+"Haemophilus Influenzae Disease, All Types, Invasive",2022,238,15155836,1.6,True
+"Haemophilus Influenzae Disease, All Types, Invasive",2023,348,15632481,2.2,True
+"Haemophilus Influenzae Disease, All Types, Invasive",2024,347,16144797,2.1,True
+"Haemophilus Influenzae Disease, All Types, Invasive",2025,336,16258260,2.1,True
+Hantavirus Pulmonary Syndrome,2016,0,0,,False
+Hantavirus Pulmonary Syndrome,2017,0,0,,False
+Hantavirus Pulmonary Syndrome,2018,0,0,,False
+Hantavirus Pulmonary Syndrome,2019,0,0,,False
+Hantavirus Pulmonary Syndrome,2020,0,0,,False
+Hantavirus Pulmonary Syndrome,2021,0,0,,False
+Hantavirus Pulmonary Syndrome,2022,0,0,,False
+Hantavirus Pulmonary Syndrome,2023,0,0,,False
+Hantavirus Pulmonary Syndrome,2024,0,0,,False
+Hantavirus Pulmonary Syndrome,2025,0,0,,False
+Hemorrhagic fevers and Lassa fever,2016,0,0,,False
+Hemorrhagic fevers and Lassa fever,2017,0,0,,False
+Hemorrhagic fevers and Lassa fever,2018,0,0,,False
+Hemorrhagic fevers and Lassa fever,2019,0,0,,False
+Hemorrhagic fevers and Lassa fever,2020,0,0,,False
+Hemorrhagic fevers and Lassa fever,2021,0,0,,False
+Hemorrhagic fevers and Lassa fever,2022,0,0,,False
+Hemorrhagic fevers and Lassa fever,2023,0,0,,False
+Hemorrhagic fevers and Lassa fever,2024,0,0,,False
+Hemorrhagic fevers and Lassa fever,2025,0,0,,False
+Hepatitis A,2016,101,13876500,0.73,True
+Hepatitis A,2017,127,14078499,0.9,True
+Hepatitis A,2018,220,14326746,1.5,True
+Hepatitis A,2019,202,14573565,1.4,True
+Hepatitis A,2020,79,14761811,0.54,True
+Hepatitis A,2021,52,14842488,0.35,True
+Hepatitis A,2022,92,15155836,0.61,True
+Hepatitis A,2023,156,15632481,1.0,True
+Hepatitis A,2024,132,16144797,0.82,True
+Hepatitis A,2025,180,16258260,1.1,True
+"Hepatitis B, acute",2016,102,13876500,0.74,True
+"Hepatitis B, acute",2017,97,14078499,0.69,True
+"Hepatitis B, acute",2018,92,14326746,0.64,True
+"Hepatitis B, acute",2019,99,14573565,0.68,True
+"Hepatitis B, acute",2020,81,14761811,0.55,True
+"Hepatitis B, acute",2021,75,14842488,0.51,True
+"Hepatitis B, acute",2022,101,15155836,0.67,True
+"Hepatitis B, acute",2023,98,15632481,0.63,True
+"Hepatitis B, acute",2024,100,16144797,0.62,True
+"Hepatitis B, acute",2025,124,16258260,0.76,True
+"Hepatitis B, chronic",2016,1997,13876500,14.4,True
+"Hepatitis B, chronic",2017,2071,14078499,14.7,True
+"Hepatitis B, chronic",2018,2059,14326746,14.4,True
+"Hepatitis B, chronic",2019,2044,14573565,14.0,True
+"Hepatitis B, chronic",2020,1273,14761811,8.6,True
+"Hepatitis B, chronic",2021,1314,14842488,8.9,True
+"Hepatitis B, chronic",2022,1420,15155836,9.4,True
+"Hepatitis B, chronic",2023,1923,15632481,12.3,True
+"Hepatitis B, chronic",2024,2103,16144797,13.0,True
+"Hepatitis B, chronic",2025,1872,16258260,11.5,True
+Hepatitis C,2016,4460,13876500,32.1,True
+Hepatitis C,2017,4960,14078499,35.2,True
+Hepatitis C,2018,5377,14326746,37.5,True
+Hepatitis C,2019,4908,14573565,33.7,True
+Hepatitis C,2020,3326,14761811,22.5,True
+Hepatitis C,2021,3577,14842488,24.1,True
+Hepatitis C,2022,3295,15155836,21.7,True
+Hepatitis C,2023,3433,15632481,22.0,True
+Hepatitis C,2024,3236,16144797,20.0,True
+Hepatitis C,2025,2812,16258260,17.3,True
+Legionellosis,2016,144,13876500,1.0,True
+Legionellosis,2017,206,14078499,1.5,True
+Legionellosis,2018,335,14326746,2.3,True
+Legionellosis,2019,378,14573565,2.6,True
+Legionellosis,2020,309,14761811,2.1,True
+Legionellosis,2021,387,14842488,2.6,True
+Legionellosis,2022,360,15155836,2.4,True
+Legionellosis,2023,336,15632481,2.1,True
+Legionellosis,2024,366,16144797,2.3,True
+Legionellosis,2025,377,16258260,2.3,True
+Leprosy,2016,6,13876500,0.04,True
+Leprosy,2017,2,14078499,0.01,True
+Leprosy,2018,6,14326746,0.04,True
+Leprosy,2019,2,14573565,0.01,True
+Leprosy,2020,1,14761811,0.01,True
+Leprosy,2021,2,14842488,0.01,True
+Leprosy,2022,1,15155836,0.01,True
+Leprosy,2023,0,15632481,0.0,True
+Leprosy,2024,1,16144797,0.01,True
+Leprosy,2025,1,16258260,0.01,True
+Listeriosis,2016,96,13876500,0.69,True
+Listeriosis,2017,55,14078499,0.39,True
+Listeriosis,2018,77,14326746,0.54,True
+Listeriosis,2019,73,14573565,0.5,True
+Listeriosis,2020,69,14761811,0.47,True
+Listeriosis,2021,73,14842488,0.49,True
+Listeriosis,2022,75,15155836,0.49,True
+Listeriosis,2023,70,15632481,0.45,True
+Listeriosis,2024,105,16144797,0.65,True
+Listeriosis,2025,75,16258260,0.46,True
+Lyme Disease,2016,402,13876500,2.9,True
+Lyme Disease,2017,1045,14078499,7.4,True
+Lyme Disease,2018,652,14326746,4.6,True
+Lyme Disease,2019,1192,14573565,8.2,True
+Lyme Disease,2020,884,14761811,6.0,True
+Lyme Disease,2021,1764,14842488,11.9,True
+Lyme Disease,2022,1524,15155836,10.1,True
+Lyme Disease,2023,1903,15632481,12.2,True
+Lyme Disease,2024,2402,16144797,14.9,True
+Lyme Disease,2025,3033,16258260,18.7,True
+Measles,2016,7,13876500,0.05,True
+Measles,2017,7,14078499,0.05,True
+Measles,2018,8,14326746,0.06,True
+Measles,2019,14,14573565,0.1,True
+Measles,2020,0,14761811,0.0,True
+Measles,2021,0,14842488,0.0,True
+Measles,2022,1,15155836,0.01,True
+Measles,2023,7,15632481,0.04,True
+Measles,2024,38,16144797,0.24,True
+Measles,2025,2108,16258260,13.0,True
+"Meningococcal Disease, Invasive",2016,29,13876500,0.21,True
+"Meningococcal Disease, Invasive",2017,31,14078499,0.22,True
+"Meningococcal Disease, Invasive",2018,32,14326746,0.22,True
+"Meningococcal Disease, Invasive",2019,36,14573565,0.25,True
+"Meningococcal Disease, Invasive",2020,22,14761811,0.15,True
+"Meningococcal Disease, Invasive",2021,10,14842488,0.07,True
+"Meningococcal Disease, Invasive",2022,26,15155836,0.17,True
+"Meningococcal Disease, Invasive",2023,30,15632481,0.19,True
+"Meningococcal Disease, Invasive",2024,39,16144797,0.24,True
+"Meningococcal Disease, Invasive",2025,42,16258260,0.26,True
+Mpox,2022,631,15155836,4.2,True
+Mpox,2023,34,15632481,0.22,True
+Mpox,2024,283,16144797,1.8,True
+Mpox,2025,188,16258260,1.2,True
+Mumps,2016,40,13876500,0.29,True
+Mumps,2017,260,14078499,1.8,True
+Mumps,2018,92,14326746,0.64,True
+Mumps,2019,77,14573565,0.53,True
+Mumps,2020,54,14761811,0.37,True
+Mumps,2021,6,14842488,0.04,True
+Mumps,2022,24,15155836,0.16,True
+Mumps,2023,32,15632481,0.2,True
+Mumps,2024,98,16144797,0.61,True
+Mumps,2025,35,16258260,0.22,True
+Ophthalmia Neonatorum,2016,4,140182,2.9,True
+Ophthalmia Neonatorum,2017,4,139765,2.9,True
+Ophthalmia Neonatorum,2018,1,139227,0.72,True
+Ophthalmia Neonatorum,2019,0,141068,0.0,True
+Ophthalmia Neonatorum,2020,1,136260,0.73,True
+Ophthalmia Neonatorum,2021,2,140021,1.4,True
+Ophthalmia Neonatorum,2022,5,134497,3.7,True
+Ophthalmia Neonatorum,2023,1,136638,0.73,True
+Ophthalmia Neonatorum,2024,3,136638,2.2,True
+Ophthalmia Neonatorum,2025,0,136638,0.0,True
+Paralytic Shellfish Poisoning,2016,0,0,,False
+Paralytic Shellfish Poisoning,2017,0,0,,False
+Paralytic Shellfish Poisoning,2018,0,0,,False
+Paralytic Shellfish Poisoning,2019,0,0,,False
+Paralytic Shellfish Poisoning,2020,0,0,,False
+Paralytic Shellfish Poisoning,2021,0,0,,False
+Paralytic Shellfish Poisoning,2022,0,0,,False
+Paralytic Shellfish Poisoning,2023,0,0,,False
+Paralytic Shellfish Poisoning,2024,0,0,,False
+Paralytic Shellfish Poisoning,2025,0,0,,False
+Paratyphoid Fever,2016,31,13876500,0.22,True
+Paratyphoid Fever,2017,33,14078499,0.23,True
+Paratyphoid Fever,2018,27,14326746,0.19,True
+Paratyphoid Fever,2019,48,14573565,0.33,True
+Paratyphoid Fever,2020,28,14761811,0.19,True
+Paratyphoid Fever,2021,13,14842488,0.09,True
+Paratyphoid Fever,2022,59,15155836,0.39,True
+Paratyphoid Fever,2023,87,15632481,0.56,True
+Paratyphoid Fever,2024,66,16144797,0.41,True
+Paratyphoid Fever,2025,68,16258260,0.42,True
+Pertussis (Whooping Cough),2016,464,13876500,3.3,True
+Pertussis (Whooping Cough),2017,586,14078499,4.2,True
+Pertussis (Whooping Cough),2018,388,14326746,2.7,True
+Pertussis (Whooping Cough),2019,462,14573565,3.2,True
+Pertussis (Whooping Cough),2020,110,14761811,0.75,True
+Pertussis (Whooping Cough),2021,16,14842488,0.11,True
+Pertussis (Whooping Cough),2022,159,15155836,1.0,True
+Pertussis (Whooping Cough),2023,369,15632481,2.4,True
+Pertussis (Whooping Cough),2024,1730,16144797,10.7,True
+Pertussis (Whooping Cough),2025,187,16258260,1.2,True
+Plague,2016,0,0,,False
+Plague,2017,0,0,,False
+Plague,2018,0,0,,False
+Plague,2019,0,0,,False
+Plague,2020,0,0,,False
+Plague,2021,0,0,,False
+Plague,2022,0,0,,False
+Plague,2023,0,0,,False
+Plague,2024,0,0,,False
+Plague,2025,0,0,,False
+Poliomyelitis (polio),2016,0,0,,False
+Poliomyelitis (polio),2017,0,0,,False
+Poliomyelitis (polio),2018,0,0,,False
+Poliomyelitis (polio),2019,0,0,,False
+Poliomyelitis (polio),2020,0,0,,False
+Poliomyelitis (polio),2021,0,0,,False
+Poliomyelitis (polio),2022,0,0,,False
+Poliomyelitis (polio),2023,0,0,,False
+Poliomyelitis (polio),2024,0,0,,False
+Poliomyelitis (polio),2025,0,0,,False
+Powassan virus,2023,0,15632481,0.0,True
+Powassan virus,2024,1,16144797,0.01,True
+Powassan virus,2025,4,16258260,0.02,True
+Psittacosis/Ornithosis,2016,0,0,,False
+Psittacosis/Ornithosis,2017,0,0,,False
+Psittacosis/Ornithosis,2018,0,0,,False
+Psittacosis/Ornithosis,2019,0,0,,False
+Psittacosis/Ornithosis,2020,0,0,,False
+Psittacosis/Ornithosis,2021,0,0,,False
+Psittacosis/Ornithosis,2022,0,0,,False
+Psittacosis/Ornithosis,2023,0,0,,False
+Psittacosis/Ornithosis,2024,0,0,,False
+Psittacosis/Ornithosis,2025,0,0,,False
+Q Fever,2016,8,13876500,0.06,True
+Q Fever,2017,9,14078499,0.06,True
+Q Fever,2018,8,14326746,0.06,True
+Q Fever,2019,16,14573565,0.11,True
+Q Fever,2020,6,14761811,0.04,True
+Q Fever,2021,7,14842488,0.05,True
+Q Fever,2022,10,15155836,0.07,True
+Q Fever,2023,14,15632481,0.09,True
+Q Fever,2024,14,16144797,0.09,True
+Q Fever,2025,12,16258260,0.07,True
+Rabies,2016,0,13876500,0.0,True
+Rabies,2017,0,14078499,0.0,True
+Rabies,2018,0,14326746,0.0,True
+Rabies,2019,0,14573565,0.0,True
+Rabies,2020,0,14761811,0.0,True
+Rabies,2021,0,14842488,0.0,True
+Rabies,2022,0,15155836,0.0,True
+Rabies,2023,0,15632481,0.0,True
+Rabies,2024,1,16144797,0.01,True
+Rabies,2025,0,16258260,0.0,True
+Rubella,2016,0,0,,False
+Rubella,2017,0,0,,False
+Rubella,2018,0,0,,False
+Rubella,2019,0,0,,False
+Rubella,2020,0,0,,False
+Rubella,2021,0,0,,False
+Rubella,2022,0,0,,False
+Rubella,2023,0,0,,False
+Rubella,2024,0,0,,False
+Rubella,2025,0,0,,False
+"Rubella, Congenital Syndrome",2016,0,0,,False
+"Rubella, Congenital Syndrome",2017,0,0,,False
+"Rubella, Congenital Syndrome",2018,0,0,,False
+"Rubella, Congenital Syndrome",2019,0,0,,False
+"Rubella, Congenital Syndrome",2020,0,0,,False
+"Rubella, Congenital Syndrome",2021,0,0,,False
+"Rubella, Congenital Syndrome",2022,0,0,,False
+"Rubella, Congenital Syndrome",2023,0,0,,False
+"Rubella, Congenital Syndrome",2024,0,0,,False
+"Rubella, Congenital Syndrome",2025,0,0,,False
+Salmonellosis,2016,3104,13876500,22.4,True
+Salmonellosis,2017,2739,14078499,19.5,True
+Salmonellosis,2018,2677,14326746,18.7,True
+Salmonellosis,2019,2388,14573565,16.4,True
+Salmonellosis,2020,1516,14761811,10.3,True
+Salmonellosis,2021,1197,14842488,8.1,True
+Salmonellosis,2022,1781,15155836,11.8,True
+Salmonellosis,2023,2386,15632481,15.3,True
+Salmonellosis,2024,2616,16144797,16.2,True
+Salmonellosis,2025,2451,16258260,15.1,True
+Shigellosis,2016,364,13876500,2.6,True
+Shigellosis,2017,307,14078499,2.2,True
+Shigellosis,2018,318,14326746,2.2,True
+Shigellosis,2019,283,14573565,1.9,True
+Shigellosis,2020,167,14761811,1.1,True
+Shigellosis,2021,126,14842488,0.85,True
+Shigellosis,2022,248,15155836,1.6,True
+Shigellosis,2023,263,15632481,1.7,True
+Shigellosis,2024,273,16144797,1.7,True
+Shigellosis,2025,332,16258260,2.0,True
+Smallpox,2016,0,0,,False
+Smallpox,2017,0,0,,False
+Smallpox,2018,0,0,,False
+Smallpox,2019,0,0,,False
+Smallpox,2020,0,0,,False
+Smallpox,2021,0,0,,False
+Smallpox,2022,0,0,,False
+Smallpox,2023,0,0,,False
+Smallpox,2024,0,0,,False
+Smallpox,2025,0,0,,False
+"Streptococcus pneumoniae, Invasive",2016,1083,13876500,7.8,True
+"Streptococcus pneumoniae, Invasive",2017,1141,14078499,8.1,True
+"Streptococcus pneumoniae, Invasive",2018,1294,14326746,9.0,True
+"Streptococcus pneumoniae, Invasive",2019,1275,14573565,8.7,True
+"Streptococcus pneumoniae, Invasive",2020,682,14761811,4.6,True
+"Streptococcus pneumoniae, Invasive",2021,655,14842488,4.4,True
+"Streptococcus pneumoniae, Invasive",2022,1272,15155836,8.4,True
+"Streptococcus pneumoniae, Invasive",2023,1587,15632481,10.2,True
+"Streptococcus pneumoniae, Invasive",2024,1825,16144797,11.3,True
+"Streptococcus pneumoniae, Invasive",2025,1919,16258260,11.8,True
+"Syphilis, Infectious",2016,1450,13876500,10.4,True
+"Syphilis, Infectious",2017,1625,14078499,11.5,True
+"Syphilis, Infectious",2018,1947,14326746,13.6,True
+"Syphilis, Infectious",2019,2444,14573565,16.8,True
+"Syphilis, Infectious",2020,2437,14761811,16.5,True
+"Syphilis, Infectious",2021,3015,14842488,20.3,True
+"Syphilis, Infectious",2022,3583,15155836,23.6,True
+"Syphilis, Infectious",2023,3296,15632481,21.1,True
+"Syphilis, Infectious",2024,2929,16144797,18.1,True
+"Syphilis, Infectious",2025,2023,16258260,12.4,True
+Tetanus,2016,1,13876500,0.01,True
+Tetanus,2017,3,14078499,0.02,True
+Tetanus,2018,0,14326746,0.0,True
+Tetanus,2019,1,14573565,0.01,True
+Tetanus,2020,2,14761811,0.01,True
+Tetanus,2021,3,14842488,0.02,True
+Tetanus,2022,2,15155836,0.01,True
+Tetanus,2023,1,15632481,0.01,True
+Tetanus,2024,3,16144797,0.02,True
+Tetanus,2025,1,16258260,0.01,True
+Trichinosis,2016,7,13876500,0.05,True
+Trichinosis,2017,4,14078499,0.03,True
+Trichinosis,2018,8,14326746,0.06,True
+Trichinosis,2019,16,14573565,0.11,True
+Trichinosis,2020,5,14761811,0.03,True
+Trichinosis,2021,2,14842488,0.01,True
+Trichinosis,2022,4,15155836,0.03,True
+Trichinosis,2023,0,15632481,0.0,True
+Trichinosis,2024,2,16144797,0.01,True
+Trichinosis,2025,0,16258260,0.0,True
+Tuberculosis,2016,632,13876500,4.6,True
+Tuberculosis,2017,675,14078499,4.8,True
+Tuberculosis,2018,667,14326746,4.7,True
+Tuberculosis,2019,746,14573565,5.1,True
+Tuberculosis,2020,687,14761811,4.7,True
+Tuberculosis,2021,724,14842488,4.9,True
+Tuberculosis,2022,782,15155836,5.2,True
+Tuberculosis,2023,888,15632481,5.7,True
+Tuberculosis,2024,995,16144797,6.2,True
+Tuberculosis,2025,936,16258260,5.8,True
+Tularemia,2016,0,13876500,0.0,True
+Tularemia,2017,1,14078499,0.01,True
+Tularemia,2018,0,14326746,0.0,True
+Tularemia,2019,0,14573565,0.0,True
+Tularemia,2020,1,14761811,0.01,True
+Tularemia,2021,1,14842488,0.01,True
+Tularemia,2022,0,15155836,0.0,True
+Tularemia,2023,0,15632481,0.0,True
+Tularemia,2024,0,16144797,0.0,True
+Tularemia,2025,2,16258260,0.01,True
+Typhoid Fever,2016,69,13876500,0.5,True
+Typhoid Fever,2017,104,14078499,0.74,True
+Typhoid Fever,2018,106,14326746,0.74,True
+Typhoid Fever,2019,122,14573565,0.84,True
+Typhoid Fever,2020,51,14761811,0.35,True
+Typhoid Fever,2021,33,14842488,0.22,True
+Typhoid Fever,2022,134,15155836,0.88,True
+Typhoid Fever,2023,141,15632481,0.9,True
+Typhoid Fever,2024,142,16144797,0.88,True
+Typhoid Fever,2025,155,16258260,0.95,True
+Verotoxin Producing E. Coli Including HUS,2016,174,13876500,1.3,True
+Verotoxin Producing E. Coli Including HUS,2017,129,14078499,0.92,True
+Verotoxin Producing E. Coli Including HUS,2018,174,14326746,1.2,True
+Verotoxin Producing E. Coli Including HUS,2019,238,14573565,1.6,True
+Verotoxin Producing E. Coli Including HUS,2020,133,14761811,0.9,True
+Verotoxin Producing E. Coli Including HUS,2021,169,14842488,1.1,True
+Verotoxin Producing E. Coli Including HUS,2022,203,15155836,1.3,True
+Verotoxin Producing E. Coli Including HUS,2023,124,15632481,0.79,True
+Verotoxin Producing E. Coli Including HUS,2024,168,16144797,1.0,True
+Verotoxin Producing E. Coli Including HUS,2025,188,16258260,1.2,True
+West Nile Virus Illness,2016,56,13876500,0.4,True
+West Nile Virus Illness,2017,159,14078499,1.1,True
+West Nile Virus Illness,2018,141,14326746,0.98,True
+West Nile Virus Illness,2019,26,14573565,0.18,True
+West Nile Virus Illness,2020,104,14761811,0.7,True
+West Nile Virus Illness,2021,26,14842488,0.18,True
+West Nile Virus Illness,2022,30,15155836,0.2,True
+West Nile Virus Illness,2023,61,15632481,0.39,True
+West Nile Virus Illness,2024,88,16144797,0.55,True
+West Nile Virus Illness,2025,181,16258260,1.1,True
+Yersiniosis,2016,260,13876500,1.9,True
+Yersiniosis,2017,282,14078499,2.0,True
+Yersiniosis,2018,303,14326746,2.1,True
+Yersiniosis,2019,280,14573565,1.9,True
+Yersiniosis,2020,190,14761811,1.3,True
+Yersiniosis,2021,222,14842488,1.5,True
+Yersiniosis,2022,211,15155836,1.4,True
+Yersiniosis,2023,232,15632481,1.5,True
+Yersiniosis,2024,244,16144797,1.5,True
+Yersiniosis,2025,198,16258260,1.2,True

@@ -1,0 +1,649 @@
+Disease,Year,Outcome,Cases with outcome,Total cases,Percent of cases with outcome
+Acquired immunodeficiency syndrome (AIDS),2016,Deaths,5.0,66.0,7.57575757575758
+Acquired immunodeficiency syndrome (AIDS),2017,Deaths,10.0,64.0,15.625
+Acquired immunodeficiency syndrome (AIDS),2018,Deaths,11.0,73.0,15.0684931506849
+Acquired immunodeficiency syndrome (AIDS),2019,Deaths,6.0,64.0,9.375
+Acquired immunodeficiency syndrome (AIDS),2020,Deaths,7.0,66.0,10.6060606060606
+Acquired immunodeficiency syndrome (AIDS),2021,Deaths,7.0,61.0,11.4754098360656
+Acquired immunodeficiency syndrome (AIDS),2022,Deaths,11.0,75.0,14.6666666666667
+Acquired immunodeficiency syndrome (AIDS),2023,Deaths,9.0,70.0,12.8571428571429
+Acquired immunodeficiency syndrome (AIDS),2024,Deaths,3.0,46.0,6.52173913043478
+Acquired immunodeficiency syndrome (AIDS),2025,Deaths,5.0,43.0,11.6279069767442
+Amebiasis,2016,Deaths,0.0,99.0,0.0
+Amebiasis,2017,Deaths,0.0,103.0,0.0
+Amebiasis,2018,Deaths,0.0,97.0,0.0
+Amebiasis,2019,Deaths,0.0,71.0,0.0
+Amebiasis,2020,Deaths,0.0,38.0,0.0
+Amebiasis,2021,Deaths,0.0,43.0,0.0
+Amebiasis,2022,Deaths,0.0,57.0,0.0
+Amebiasis,2023,Deaths,1.0,82.0,1.21951219512195
+Amebiasis,2024,Deaths,0.0,91.0,0.0
+Amebiasis,2025,Deaths,2.0,90.0,2.22222222222222
+Amebiasis,2016,Hospitalizations,6.0,99.0,6.06060606060606
+Amebiasis,2017,Hospitalizations,3.0,103.0,2.9126213592233
+Amebiasis,2018,Hospitalizations,4.0,97.0,4.12371134020619
+Amebiasis,2019,Hospitalizations,1.0,71.0,1.40845070422535
+Amebiasis,2020,Hospitalizations,1.0,38.0,2.63157894736842
+Amebiasis,2021,Hospitalizations,0.0,43.0,0.0
+Amebiasis,2022,Hospitalizations,2.0,57.0,3.50877192982456
+Amebiasis,2023,Hospitalizations,5.0,82.0,6.09756097560976
+Amebiasis,2024,Hospitalizations,4.0,91.0,4.3956043956044
+Amebiasis,2025,Hospitalizations,6.0,90.0,6.66666666666667
+Anaplasmosis,2023,Deaths,0.0,38.0,0.0
+Anaplasmosis,2024,Deaths,4.0,163.0,2.45398773006135
+Anaplasmosis,2025,Deaths,1.0,315.0,0.317460317460317
+Anaplasmosis,2023,Hospitalizations,11.0,38.0,28.9473684210526
+Anaplasmosis,2024,Hospitalizations,31.0,163.0,19.0184049079755
+Anaplasmosis,2025,Hospitalizations,62.0,315.0,19.6825396825397
+Babesiosis,2023,Deaths,0.0,17.0,0.0
+Babesiosis,2024,Deaths,0.0,4.0,0.0
+Babesiosis,2025,Deaths,0.0,3.0,0.0
+Babesiosis,2023,Hospitalizations,4.0,17.0,23.5294117647059
+Babesiosis,2024,Hospitalizations,3.0,4.0,75.0
+Babesiosis,2025,Hospitalizations,1.0,3.0,33.3333333333333
+Blastomycosis,2018,Deaths,4.0,64.0,6.25
+Blastomycosis,2019,Deaths,11.0,88.0,12.5
+Blastomycosis,2020,Deaths,5.0,54.0,9.25925925925926
+Blastomycosis,2021,Deaths,13.0,104.0,12.5
+Blastomycosis,2022,Deaths,4.0,105.0,3.80952380952381
+Blastomycosis,2023,Deaths,11.0,125.0,8.8
+Blastomycosis,2024,Deaths,8.0,114.0,7.01754385964912
+Blastomycosis,2025,Deaths,4.0,83.0,4.81927710843374
+Campylobacter Enteritis,2016,Deaths,1.0,3443.0,0.0290444379901249
+Campylobacter Enteritis,2017,Deaths,0.0,3472.0,0.0
+Campylobacter Enteritis,2018,Deaths,1.0,3438.0,0.029086678301338
+Campylobacter Enteritis,2019,Deaths,2.0,3235.0,0.0618238021638331
+Campylobacter Enteritis,2020,Deaths,1.0,1997.0,0.0500751126690035
+Campylobacter Enteritis,2021,Deaths,2.0,2215.0,0.090293453724605
+Campylobacter Enteritis,2022,Deaths,1.0,2161.0,0.0462748727441
+Campylobacter Enteritis,2023,Deaths,0.0,2530.0,0.0
+Campylobacter Enteritis,2024,Deaths,1.0,2527.0,0.0395726157499011
+Campylobacter Enteritis,2025,Deaths,0.0,2436.0,0.0
+Campylobacter Enteritis,2016,Hospitalizations,186.0,3443.0,5.40226546616323
+Campylobacter Enteritis,2017,Hospitalizations,161.0,3472.0,4.63709677419355
+Campylobacter Enteritis,2018,Hospitalizations,186.0,3438.0,5.41012216404887
+Campylobacter Enteritis,2019,Hospitalizations,174.0,3235.0,5.37867078825348
+Campylobacter Enteritis,2020,Hospitalizations,122.0,1997.0,6.10916374561843
+Campylobacter Enteritis,2021,Hospitalizations,163.0,2215.0,7.35891647855531
+Campylobacter Enteritis,2022,Hospitalizations,125.0,2161.0,5.78435909301249
+Campylobacter Enteritis,2023,Hospitalizations,182.0,2530.0,7.19367588932806
+Campylobacter Enteritis,2024,Hospitalizations,138.0,2527.0,5.46102097348635
+Campylobacter Enteritis,2025,Hospitalizations,167.0,2436.0,6.85550082101806
+Chickenpox (Varicella),2016,Deaths,1.0,271.0,0.3690036900369
+Chickenpox (Varicella),2017,Deaths,0.0,276.0,0.0
+Chickenpox (Varicella),2018,Deaths,1.0,293.0,0.341296928327645
+Chickenpox (Varicella),2019,Deaths,0.0,402.0,0.0
+Chickenpox (Varicella),2020,Deaths,1.0,179.0,0.558659217877095
+Chickenpox (Varicella),2021,Deaths,0.0,229.0,0.0
+Chickenpox (Varicella),2022,Deaths,0.0,372.0,0.0
+Chickenpox (Varicella),2023,Deaths,0.0,614.0,0.0
+Chickenpox (Varicella),2024,Deaths,0.0,808.0,0.0
+Chickenpox (Varicella),2025,Deaths,0.0,788.0,0.0
+Chickenpox (Varicella),2016,Hospitalizations,23.0,271.0,8.48708487084871
+Chickenpox (Varicella),2017,Hospitalizations,29.0,276.0,10.5072463768116
+Chickenpox (Varicella),2018,Hospitalizations,30.0,293.0,10.2389078498294
+Chickenpox (Varicella),2019,Hospitalizations,43.0,402.0,10.6965174129353
+Chickenpox (Varicella),2020,Hospitalizations,20.0,179.0,11.1731843575419
+Chickenpox (Varicella),2021,Hospitalizations,28.0,229.0,12.2270742358079
+Chickenpox (Varicella),2022,Hospitalizations,28.0,372.0,7.52688172043011
+Chickenpox (Varicella),2023,Hospitalizations,48.0,614.0,7.81758957654723
+Chickenpox (Varicella),2024,Hospitalizations,55.0,808.0,6.80693069306931
+Chickenpox (Varicella),2025,Hospitalizations,37.0,788.0,4.69543147208122
+Clostridium difficile infection (CDI) outbreaks in hospitals,2016,Deaths,7.0,68.0,10.2941176470588
+Clostridium difficile infection (CDI) outbreaks in hospitals,2017,Deaths,12.0,69.0,17.3913043478261
+Clostridium difficile infection (CDI) outbreaks in hospitals,2018,Deaths,12.0,48.0,25.0
+Clostridium difficile infection (CDI) outbreaks in hospitals,2019,Deaths,4.0,42.0,9.52380952380952
+Clostridium difficile infection (CDI) outbreaks in hospitals,2020,Deaths,2.0,38.0,5.26315789473684
+Clostridium difficile infection (CDI) outbreaks in hospitals,2021,Deaths,0.0,13.0,0.0
+Clostridium difficile infection (CDI) outbreaks in hospitals,2022,Deaths,4.0,38.0,10.5263157894737
+Clostridium difficile infection (CDI) outbreaks in hospitals,2023,Deaths,0.0,10.0,0.0
+Clostridium difficile infection (CDI) outbreaks in hospitals,2024,Deaths,0.0,32.0,0.0
+Clostridium difficile infection (CDI) outbreaks in hospitals,2025,Deaths,0.0,34.0,0.0
+"Creutzfeldt-Jakob Disease, All Types",2016,Deaths,7.0,8.0,87.5
+"Creutzfeldt-Jakob Disease, All Types",2017,Deaths,8.0,9.0,88.8888888888889
+"Creutzfeldt-Jakob Disease, All Types",2018,Deaths,11.0,13.0,84.6153846153846
+"Creutzfeldt-Jakob Disease, All Types",2019,Deaths,9.0,10.0,90.0
+"Creutzfeldt-Jakob Disease, All Types",2020,Deaths,7.0,9.0,77.7777777777778
+"Creutzfeldt-Jakob Disease, All Types",2021,Deaths,7.0,8.0,87.5
+"Creutzfeldt-Jakob Disease, All Types",2022,Deaths,5.0,7.0,71.4285714285714
+"Creutzfeldt-Jakob Disease, All Types",2023,Deaths,13.0,14.0,92.8571428571429
+"Creutzfeldt-Jakob Disease, All Types",2024,Deaths,2.0,5.0,40.0
+"Creutzfeldt-Jakob Disease, All Types",2025,Deaths,2.0,2.0,100.0
+Cryptosporidiosis,2016,Deaths,0.0,429.0,0.0
+Cryptosporidiosis,2017,Deaths,0.0,392.0,0.0
+Cryptosporidiosis,2018,Deaths,0.0,757.0,0.0
+Cryptosporidiosis,2019,Deaths,0.0,815.0,0.0
+Cryptosporidiosis,2020,Deaths,0.0,473.0,0.0
+Cryptosporidiosis,2021,Deaths,0.0,512.0,0.0
+Cryptosporidiosis,2022,Deaths,0.0,457.0,0.0
+Cryptosporidiosis,2023,Deaths,0.0,539.0,0.0
+Cryptosporidiosis,2024,Deaths,1.0,847.0,0.118063754427391
+Cryptosporidiosis,2025,Deaths,0.0,563.0,0.0
+Cryptosporidiosis,2016,Hospitalizations,22.0,429.0,5.12820512820513
+Cryptosporidiosis,2017,Hospitalizations,15.0,392.0,3.8265306122449
+Cryptosporidiosis,2018,Hospitalizations,19.0,757.0,2.50990752972259
+Cryptosporidiosis,2019,Hospitalizations,22.0,815.0,2.69938650306748
+Cryptosporidiosis,2020,Hospitalizations,18.0,473.0,3.80549682875264
+Cryptosporidiosis,2021,Hospitalizations,23.0,512.0,4.4921875
+Cryptosporidiosis,2022,Hospitalizations,8.0,457.0,1.75054704595186
+Cryptosporidiosis,2023,Hospitalizations,15.0,539.0,2.78293135435993
+Cryptosporidiosis,2024,Hospitalizations,31.0,847.0,3.65997638724911
+Cryptosporidiosis,2025,Hospitalizations,16.0,563.0,2.84191829484902
+Cyclosporiasis,2016,Deaths,0.0,274.0,0.0
+Cyclosporiasis,2017,Deaths,0.0,292.0,0.0
+Cyclosporiasis,2018,Deaths,0.0,269.0,0.0
+Cyclosporiasis,2019,Deaths,0.0,449.0,0.0
+Cyclosporiasis,2020,Deaths,0.0,351.0,0.0
+Cyclosporiasis,2021,Deaths,0.0,98.0,0.0
+Cyclosporiasis,2022,Deaths,0.0,488.0,0.0
+Cyclosporiasis,2023,Deaths,0.0,663.0,0.0
+Cyclosporiasis,2024,Deaths,0.0,424.0,0.0
+Cyclosporiasis,2025,Deaths,0.0,370.0,0.0
+Cyclosporiasis,2016,Hospitalizations,1.0,274.0,0.364963503649635
+Cyclosporiasis,2017,Hospitalizations,3.0,292.0,1.02739726027397
+Cyclosporiasis,2018,Hospitalizations,0.0,269.0,0.0
+Cyclosporiasis,2019,Hospitalizations,5.0,449.0,1.11358574610245
+Cyclosporiasis,2020,Hospitalizations,5.0,351.0,1.42450142450142
+Cyclosporiasis,2021,Hospitalizations,2.0,98.0,2.04081632653061
+Cyclosporiasis,2022,Hospitalizations,5.0,488.0,1.02459016393443
+Cyclosporiasis,2023,Hospitalizations,7.0,663.0,1.05580693815988
+Cyclosporiasis,2024,Hospitalizations,4.0,424.0,0.943396226415094
+Cyclosporiasis,2025,Hospitalizations,1.0,370.0,0.27027027027027
+Giardiasis,2016,Deaths,0.0,1220.0,0.0
+Giardiasis,2017,Deaths,2.0,1417.0,0.141143260409315
+Giardiasis,2018,Deaths,0.0,1544.0,0.0
+Giardiasis,2019,Deaths,0.0,1300.0,0.0
+Giardiasis,2020,Deaths,0.0,854.0,0.0
+Giardiasis,2021,Deaths,0.0,790.0,0.0
+Giardiasis,2022,Deaths,0.0,821.0,0.0
+Giardiasis,2023,Deaths,0.0,1067.0,0.0
+Giardiasis,2024,Deaths,0.0,1342.0,0.0
+Giardiasis,2025,Deaths,0.0,1100.0,0.0
+Giardiasis,2016,Hospitalizations,21.0,1220.0,1.72131147540984
+Giardiasis,2017,Hospitalizations,25.0,1417.0,1.76429075511644
+Giardiasis,2018,Hospitalizations,22.0,1544.0,1.42487046632124
+Giardiasis,2019,Hospitalizations,14.0,1300.0,1.07692307692308
+Giardiasis,2020,Hospitalizations,4.0,854.0,0.468384074941452
+Giardiasis,2021,Hospitalizations,17.0,790.0,2.15189873417722
+Giardiasis,2022,Hospitalizations,6.0,821.0,0.730816077953715
+Giardiasis,2023,Hospitalizations,21.0,1067.0,1.96813495782568
+Giardiasis,2024,Hospitalizations,26.0,1342.0,1.93740685543964
+Giardiasis,2025,Hospitalizations,20.0,1100.0,1.81818181818182
+"Group A Streptococcal Disease, Invasive",2016,Deaths,78.0,717.0,10.8786610878661
+"Group A Streptococcal Disease, Invasive",2017,Deaths,94.0,935.0,10.0534759358289
+"Group A Streptococcal Disease, Invasive",2018,Deaths,126.0,1143.0,11.0236220472441
+"Group A Streptococcal Disease, Invasive",2019,Deaths,97.0,1103.0,8.79419764279238
+"Group A Streptococcal Disease, Invasive",2020,Deaths,92.0,1056.0,8.71212121212121
+"Group A Streptococcal Disease, Invasive",2021,Deaths,46.0,811.0,5.67200986436498
+"Group A Streptococcal Disease, Invasive",2022,Deaths,102.0,923.0,11.0509209100758
+"Group A Streptococcal Disease, Invasive",2023,Deaths,225.0,2001.0,11.2443778110945
+"Group A Streptococcal Disease, Invasive",2024,Deaths,220.0,1793.0,12.2699386503067
+"Group A Streptococcal Disease, Invasive",2025,Deaths,176.0,1618.0,10.8776266996292
+"Group A Streptococcal Disease, Invasive",2016,Hospitalizations,577.0,717.0,80.4741980474198
+"Group A Streptococcal Disease, Invasive",2017,Hospitalizations,793.0,935.0,84.8128342245989
+"Group A Streptococcal Disease, Invasive",2018,Hospitalizations,947.0,1143.0,82.8521434820647
+"Group A Streptococcal Disease, Invasive",2019,Hospitalizations,904.0,1103.0,81.9582955575703
+"Group A Streptococcal Disease, Invasive",2020,Hospitalizations,854.0,1056.0,80.8712121212121
+"Group A Streptococcal Disease, Invasive",2021,Hospitalizations,622.0,811.0,76.6954377311961
+"Group A Streptococcal Disease, Invasive",2022,Hospitalizations,717.0,923.0,77.6814734561213
+"Group A Streptococcal Disease, Invasive",2023,Hospitalizations,1684.0,2001.0,84.1579210394803
+"Group A Streptococcal Disease, Invasive",2024,Hospitalizations,1507.0,1793.0,84.0490797546012
+"Group A Streptococcal Disease, Invasive",2025,Hospitalizations,1383.0,1618.0,85.4758961681088
+"Group B Streptococcal Disease, Neonatal",2016,Deaths,1.0,49.0,2.04081632653061
+"Group B Streptococcal Disease, Neonatal",2017,Deaths,2.0,52.0,3.84615384615385
+"Group B Streptococcal Disease, Neonatal",2018,Deaths,2.0,57.0,3.50877192982456
+"Group B Streptococcal Disease, Neonatal",2019,Deaths,6.0,35.0,17.1428571428571
+"Group B Streptococcal Disease, Neonatal",2020,Deaths,0.0,28.0,0.0
+"Group B Streptococcal Disease, Neonatal",2021,Deaths,3.0,46.0,6.52173913043478
+"Group B Streptococcal Disease, Neonatal",2022,Deaths,3.0,31.0,9.67741935483871
+"Group B Streptococcal Disease, Neonatal",2023,Deaths,4.0,47.0,8.51063829787234
+"Group B Streptococcal Disease, Neonatal",2024,Deaths,2.0,33.0,6.06060606060606
+"Group B Streptococcal Disease, Neonatal",2025,Deaths,3.0,37.0,8.10810810810811
+HIV,2016,Deaths,23.0,833.0,2.76110444177671
+HIV,2017,Deaths,15.0,833.0,1.80072028811525
+HIV,2018,Deaths,11.0,891.0,1.23456790123457
+HIV,2019,Deaths,13.0,969.0,1.34158926728586
+HIV,2020,Deaths,10.0,711.0,1.40646976090014
+HIV,2021,Deaths,8.0,653.0,1.22511485451761
+HIV,2022,Deaths,12.0,909.0,1.32013201320132
+HIV,2023,Deaths,9.0,1396.0,0.644699140401146
+HIV,2024,Deaths,5.0,1184.0,0.422297297297297
+HIV,2025,Deaths,6.0,746.0,0.804289544235925
+"Haemophilus Influenzae Disease, All Types, Invasive",2016,Deaths,0.0,4.0,0.0
+"Haemophilus Influenzae Disease, All Types, Invasive",2017,Deaths,0.0,7.0,0.0
+"Haemophilus Influenzae Disease, All Types, Invasive",2018,Deaths,19.0,202.0,9.40594059405941
+"Haemophilus Influenzae Disease, All Types, Invasive",2019,Deaths,33.0,302.0,10.9271523178808
+"Haemophilus Influenzae Disease, All Types, Invasive",2020,Deaths,15.0,125.0,12.0
+"Haemophilus Influenzae Disease, All Types, Invasive",2021,Deaths,7.0,83.0,8.43373493975904
+"Haemophilus Influenzae Disease, All Types, Invasive",2022,Deaths,20.0,238.0,8.40336134453782
+"Haemophilus Influenzae Disease, All Types, Invasive",2023,Deaths,29.0,348.0,8.33333333333333
+"Haemophilus Influenzae Disease, All Types, Invasive",2024,Deaths,24.0,347.0,6.9164265129683
+"Haemophilus Influenzae Disease, All Types, Invasive",2025,Deaths,22.0,336.0,6.54761904761905
+"Haemophilus Influenzae Disease, All Types, Invasive",2016,Hospitalizations,4.0,4.0,100.0
+"Haemophilus Influenzae Disease, All Types, Invasive",2017,Hospitalizations,7.0,7.0,100.0
+"Haemophilus Influenzae Disease, All Types, Invasive",2018,Hospitalizations,162.0,202.0,80.1980198019802
+"Haemophilus Influenzae Disease, All Types, Invasive",2019,Hospitalizations,253.0,302.0,83.7748344370861
+"Haemophilus Influenzae Disease, All Types, Invasive",2020,Hospitalizations,99.0,125.0,79.2
+"Haemophilus Influenzae Disease, All Types, Invasive",2021,Hospitalizations,67.0,83.0,80.7228915662651
+"Haemophilus Influenzae Disease, All Types, Invasive",2022,Hospitalizations,201.0,238.0,84.453781512605
+"Haemophilus Influenzae Disease, All Types, Invasive",2023,Hospitalizations,298.0,348.0,85.632183908046
+"Haemophilus Influenzae Disease, All Types, Invasive",2024,Hospitalizations,302.0,347.0,87.0317002881844
+"Haemophilus Influenzae Disease, All Types, Invasive",2025,Hospitalizations,278.0,336.0,82.7380952380952
+Hepatitis A,2016,Deaths,2.0,101.0,1.98019801980198
+Hepatitis A,2017,Deaths,0.0,127.0,0.0
+Hepatitis A,2018,Deaths,0.0,220.0,0.0
+Hepatitis A,2019,Deaths,0.0,202.0,0.0
+Hepatitis A,2020,Deaths,0.0,79.0,0.0
+Hepatitis A,2021,Deaths,0.0,52.0,0.0
+Hepatitis A,2022,Deaths,0.0,92.0,0.0
+Hepatitis A,2023,Deaths,0.0,156.0,0.0
+Hepatitis A,2024,Deaths,0.0,132.0,0.0
+Hepatitis A,2025,Deaths,0.0,180.0,0.0
+Hepatitis A,2016,Hospitalizations,37.0,101.0,36.6336633663366
+Hepatitis A,2017,Hospitalizations,51.0,127.0,40.1574803149606
+Hepatitis A,2018,Hospitalizations,103.0,220.0,46.8181818181818
+Hepatitis A,2019,Hospitalizations,63.0,202.0,31.1881188118812
+Hepatitis A,2020,Hospitalizations,20.0,79.0,25.3164556962025
+Hepatitis A,2021,Hospitalizations,23.0,52.0,44.2307692307692
+Hepatitis A,2022,Hospitalizations,38.0,92.0,41.304347826087
+Hepatitis A,2023,Hospitalizations,76.0,156.0,48.7179487179487
+Hepatitis A,2024,Hospitalizations,67.0,132.0,50.7575757575758
+Hepatitis A,2025,Hospitalizations,89.0,180.0,49.4444444444444
+"Hepatitis B, acute",2016,Deaths,2.0,102.0,1.96078431372549
+"Hepatitis B, acute",2017,Deaths,3.0,97.0,3.09278350515464
+"Hepatitis B, acute",2018,Deaths,1.0,92.0,1.08695652173913
+"Hepatitis B, acute",2019,Deaths,3.0,99.0,3.03030303030303
+"Hepatitis B, acute",2020,Deaths,3.0,81.0,3.7037037037037
+"Hepatitis B, acute",2021,Deaths,2.0,75.0,2.66666666666667
+"Hepatitis B, acute",2022,Deaths,0.0,101.0,0.0
+"Hepatitis B, acute",2023,Deaths,0.0,98.0,0.0
+"Hepatitis B, acute",2024,Deaths,1.0,100.0,1.0
+"Hepatitis B, acute",2025,Deaths,0.0,124.0,0.0
+"Hepatitis B, acute",2016,Hospitalizations,9.0,102.0,8.82352941176471
+"Hepatitis B, acute",2017,Hospitalizations,8.0,97.0,8.24742268041237
+"Hepatitis B, acute",2018,Hospitalizations,9.0,92.0,9.78260869565217
+"Hepatitis B, acute",2019,Hospitalizations,8.0,99.0,8.08080808080808
+"Hepatitis B, acute",2020,Hospitalizations,3.0,81.0,3.7037037037037
+"Hepatitis B, acute",2021,Hospitalizations,7.0,75.0,9.33333333333333
+"Hepatitis B, acute",2022,Hospitalizations,6.0,101.0,5.94059405940594
+"Hepatitis B, acute",2023,Hospitalizations,8.0,98.0,8.16326530612245
+"Hepatitis B, acute",2024,Hospitalizations,3.0,100.0,3.0
+"Hepatitis B, acute",2025,Hospitalizations,7.0,124.0,5.64516129032258
+"Hepatitis B, chronic",2016,Deaths,3.0,1997.0,0.150225338007011
+"Hepatitis B, chronic",2017,Deaths,4.0,2071.0,0.193143408981168
+"Hepatitis B, chronic",2018,Deaths,0.0,2059.0,0.0
+"Hepatitis B, chronic",2019,Deaths,1.0,2044.0,0.0489236790606654
+"Hepatitis B, chronic",2020,Deaths,3.0,1273.0,0.2356637863315
+"Hepatitis B, chronic",2021,Deaths,2.0,1314.0,0.15220700152207
+"Hepatitis B, chronic",2022,Deaths,1.0,1420.0,0.0704225352112676
+"Hepatitis B, chronic",2023,Deaths,2.0,1923.0,0.104004160166407
+"Hepatitis B, chronic",2024,Deaths,4.0,2103.0,0.19020446980504
+"Hepatitis B, chronic",2025,Deaths,5.0,1872.0,0.267094017094017
+"Hepatitis B, chronic",2016,Hospitalizations,6.0,1997.0,0.300450676014021
+"Hepatitis B, chronic",2017,Hospitalizations,8.0,2071.0,0.386286817962337
+"Hepatitis B, chronic",2018,Hospitalizations,7.0,2059.0,0.339970859640602
+"Hepatitis B, chronic",2019,Hospitalizations,3.0,2044.0,0.146771037181996
+"Hepatitis B, chronic",2020,Hospitalizations,7.0,1273.0,0.549882168106834
+"Hepatitis B, chronic",2021,Hospitalizations,5.0,1314.0,0.380517503805175
+"Hepatitis B, chronic",2022,Hospitalizations,8.0,1420.0,0.563380281690141
+"Hepatitis B, chronic",2023,Hospitalizations,4.0,1923.0,0.208008320332813
+"Hepatitis B, chronic",2024,Hospitalizations,10.0,2103.0,0.475511174512601
+"Hepatitis B, chronic",2025,Hospitalizations,8.0,1872.0,0.427350427350427
+Hepatitis C,2016,Deaths,23.0,4460.0,0.515695067264574
+Hepatitis C,2017,Deaths,27.0,4960.0,0.544354838709677
+Hepatitis C,2018,Deaths,28.0,5377.0,0.520736470150642
+Hepatitis C,2019,Deaths,18.0,4908.0,0.366748166259169
+Hepatitis C,2020,Deaths,8.0,3326.0,0.240529164161155
+Hepatitis C,2021,Deaths,16.0,3577.0,0.447302208554655
+Hepatitis C,2022,Deaths,20.0,3295.0,0.606980273141123
+Hepatitis C,2023,Deaths,20.0,3433.0,0.582580833090591
+Hepatitis C,2024,Deaths,10.0,3236.0,0.30902348578492
+Hepatitis C,2025,Deaths,12.0,2812.0,0.42674253200569
+Hepatitis C,2016,Hospitalizations,33.0,4460.0,0.739910313901345
+Hepatitis C,2017,Hospitalizations,53.0,4960.0,1.06854838709677
+Hepatitis C,2018,Hospitalizations,65.0,5377.0,1.20885251999256
+Hepatitis C,2019,Hospitalizations,67.0,4908.0,1.36511817440913
+Hepatitis C,2020,Hospitalizations,33.0,3326.0,0.992182802164763
+Hepatitis C,2021,Hospitalizations,28.0,3577.0,0.782778864970646
+Hepatitis C,2022,Hospitalizations,24.0,3295.0,0.728376327769348
+Hepatitis C,2023,Hospitalizations,53.0,3433.0,1.54383920769007
+Hepatitis C,2024,Hospitalizations,32.0,3236.0,0.988875154511743
+Hepatitis C,2025,Hospitalizations,28.0,2812.0,0.995732574679943
+Legionellosis,2016,Deaths,10.0,144.0,6.94444444444444
+Legionellosis,2017,Deaths,17.0,206.0,8.25242718446602
+Legionellosis,2018,Deaths,24.0,335.0,7.16417910447761
+Legionellosis,2019,Deaths,11.0,378.0,2.91005291005291
+Legionellosis,2020,Deaths,26.0,309.0,8.41423948220065
+Legionellosis,2021,Deaths,24.0,387.0,6.2015503875969
+Legionellosis,2022,Deaths,21.0,360.0,5.83333333333333
+Legionellosis,2023,Deaths,21.0,336.0,6.25
+Legionellosis,2024,Deaths,22.0,366.0,6.01092896174863
+Legionellosis,2025,Deaths,28.0,377.0,7.42705570291777
+Legionellosis,2016,Hospitalizations,115.0,144.0,79.8611111111111
+Legionellosis,2017,Hospitalizations,178.0,206.0,86.4077669902913
+Legionellosis,2018,Hospitalizations,260.0,335.0,77.6119402985075
+Legionellosis,2019,Hospitalizations,289.0,378.0,76.4550264550265
+Legionellosis,2020,Hospitalizations,248.0,309.0,80.2588996763754
+Legionellosis,2021,Hospitalizations,287.0,387.0,74.1602067183463
+Legionellosis,2022,Hospitalizations,269.0,360.0,74.7222222222222
+Legionellosis,2023,Hospitalizations,269.0,336.0,80.0595238095238
+Legionellosis,2024,Hospitalizations,301.0,366.0,82.2404371584699
+Legionellosis,2025,Hospitalizations,296.0,377.0,78.5145888594164
+Listeriosis,2016,Deaths,13.0,96.0,13.5416666666667
+Listeriosis,2017,Deaths,8.0,55.0,14.5454545454545
+Listeriosis,2018,Deaths,8.0,77.0,10.3896103896104
+Listeriosis,2019,Deaths,14.0,73.0,19.1780821917808
+Listeriosis,2020,Deaths,6.0,69.0,8.69565217391304
+Listeriosis,2021,Deaths,11.0,73.0,15.0684931506849
+Listeriosis,2022,Deaths,14.0,75.0,18.6666666666667
+Listeriosis,2023,Deaths,5.0,70.0,7.14285714285714
+Listeriosis,2024,Deaths,15.0,105.0,14.2857142857143
+Listeriosis,2025,Deaths,11.0,75.0,14.6666666666667
+Listeriosis,2016,Hospitalizations,83.0,96.0,86.4583333333333
+Listeriosis,2017,Hospitalizations,36.0,55.0,65.4545454545455
+Listeriosis,2018,Hospitalizations,57.0,77.0,74.025974025974
+Listeriosis,2019,Hospitalizations,55.0,73.0,75.3424657534247
+Listeriosis,2020,Hospitalizations,46.0,69.0,66.6666666666667
+Listeriosis,2021,Hospitalizations,61.0,73.0,83.5616438356164
+Listeriosis,2022,Hospitalizations,49.0,75.0,65.3333333333333
+Listeriosis,2023,Hospitalizations,52.0,70.0,74.2857142857143
+Listeriosis,2024,Hospitalizations,77.0,105.0,73.3333333333333
+Listeriosis,2025,Hospitalizations,65.0,75.0,86.6666666666667
+Lyme Disease,2016,Deaths,0.0,402.0,0.0
+Lyme Disease,2017,Deaths,0.0,1045.0,0.0
+Lyme Disease,2018,Deaths,0.0,652.0,0.0
+Lyme Disease,2019,Deaths,0.0,1192.0,0.0
+Lyme Disease,2020,Deaths,0.0,884.0,0.0
+Lyme Disease,2021,Deaths,0.0,1764.0,0.0
+Lyme Disease,2022,Deaths,1.0,1524.0,0.0656167979002625
+Lyme Disease,2023,Deaths,0.0,1903.0,0.0
+Lyme Disease,2024,Deaths,1.0,2402.0,0.0416319733555371
+Lyme Disease,2025,Deaths,1.0,3033.0,0.0329706561160567
+Lyme Disease,2016,Hospitalizations,12.0,402.0,2.98507462686567
+Lyme Disease,2017,Hospitalizations,31.0,1045.0,2.96650717703349
+Lyme Disease,2018,Hospitalizations,33.0,652.0,5.06134969325153
+Lyme Disease,2019,Hospitalizations,36.0,1192.0,3.02013422818792
+Lyme Disease,2020,Hospitalizations,23.0,884.0,2.60180995475113
+Lyme Disease,2021,Hospitalizations,89.0,1764.0,5.0453514739229
+Lyme Disease,2022,Hospitalizations,58.0,1524.0,3.80577427821522
+Lyme Disease,2023,Hospitalizations,84.0,1903.0,4.41408302679979
+Lyme Disease,2024,Hospitalizations,69.0,2402.0,2.87260616153206
+Lyme Disease,2025,Hospitalizations,108.0,3033.0,3.56083086053412
+Measles,2016,Deaths,0.0,7.0,0.0
+Measles,2017,Deaths,0.0,7.0,0.0
+Measles,2018,Deaths,0.0,8.0,0.0
+Measles,2019,Deaths,0.0,14.0,0.0
+Measles,2020,Deaths,0.0,0.0,0.0
+Measles,2021,Deaths,0.0,0.0,0.0
+Measles,2022,Deaths,0.0,1.0,0.0
+Measles,2023,Deaths,0.0,7.0,0.0
+Measles,2024,Deaths,1.0,38.0,2.63157894736842
+Measles,2025,Deaths,1.0,2108.0,0.047438330170778
+Measles,2016,Hospitalizations,3.0,7.0,42.8571428571429
+Measles,2017,Hospitalizations,3.0,7.0,42.8571428571429
+Measles,2018,Hospitalizations,2.0,8.0,25.0
+Measles,2019,Hospitalizations,5.0,14.0,35.7142857142857
+Measles,2020,Hospitalizations,0.0,0.0,0.0
+Measles,2021,Hospitalizations,0.0,0.0,0.0
+Measles,2022,Hospitalizations,1.0,1.0,100.0
+Measles,2023,Hospitalizations,1.0,7.0,14.2857142857143
+Measles,2024,Hospitalizations,7.0,38.0,18.4210526315789
+Measles,2025,Hospitalizations,181.0,2108.0,8.58633776091082
+"Meningococcal Disease, Invasive",2016,Deaths,3.0,29.0,10.3448275862069
+"Meningococcal Disease, Invasive",2017,Deaths,4.0,31.0,12.9032258064516
+"Meningococcal Disease, Invasive",2018,Deaths,4.0,32.0,12.5
+"Meningococcal Disease, Invasive",2019,Deaths,6.0,36.0,16.6666666666667
+"Meningococcal Disease, Invasive",2020,Deaths,2.0,22.0,9.09090909090909
+"Meningococcal Disease, Invasive",2021,Deaths,1.0,10.0,10.0
+"Meningococcal Disease, Invasive",2022,Deaths,3.0,26.0,11.5384615384615
+"Meningococcal Disease, Invasive",2023,Deaths,3.0,30.0,10.0
+"Meningococcal Disease, Invasive",2024,Deaths,6.0,39.0,15.3846153846154
+"Meningococcal Disease, Invasive",2025,Deaths,4.0,42.0,9.52380952380952
+"Meningococcal Disease, Invasive",2016,Hospitalizations,25.0,29.0,86.2068965517241
+"Meningococcal Disease, Invasive",2017,Hospitalizations,29.0,31.0,93.5483870967742
+"Meningococcal Disease, Invasive",2018,Hospitalizations,30.0,32.0,93.75
+"Meningococcal Disease, Invasive",2019,Hospitalizations,34.0,36.0,94.4444444444444
+"Meningococcal Disease, Invasive",2020,Hospitalizations,21.0,22.0,95.4545454545455
+"Meningococcal Disease, Invasive",2021,Hospitalizations,9.0,10.0,90.0
+"Meningococcal Disease, Invasive",2022,Hospitalizations,24.0,26.0,92.3076923076923
+"Meningococcal Disease, Invasive",2023,Hospitalizations,28.0,30.0,93.3333333333333
+"Meningococcal Disease, Invasive",2024,Hospitalizations,38.0,39.0,97.4358974358974
+"Meningococcal Disease, Invasive",2025,Hospitalizations,42.0,42.0,100.0
+Mpox,2022,Deaths,0.0,631.0,0.0
+Mpox,2023,Deaths,0.0,34.0,0.0
+Mpox,2024,Deaths,0.0,283.0,0.0
+Mpox,2025,Deaths,0.0,188.0,0.0
+Mpox,2022,Hospitalizations,15.0,631.0,2.37717908082409
+Mpox,2023,Hospitalizations,1.0,34.0,2.94117647058824
+Mpox,2024,Hospitalizations,6.0,283.0,2.12014134275618
+Mpox,2025,Hospitalizations,1.0,188.0,0.531914893617021
+Mumps,2016,Deaths,0.0,40.0,0.0
+Mumps,2017,Deaths,0.0,260.0,0.0
+Mumps,2018,Deaths,0.0,92.0,0.0
+Mumps,2019,Deaths,0.0,77.0,0.0
+Mumps,2020,Deaths,0.0,54.0,0.0
+Mumps,2021,Deaths,0.0,6.0,0.0
+Mumps,2022,Deaths,0.0,24.0,0.0
+Mumps,2023,Deaths,0.0,32.0,0.0
+Mumps,2024,Deaths,0.0,98.0,0.0
+Mumps,2025,Deaths,0.0,35.0,0.0
+Mumps,2016,Hospitalizations,2.0,40.0,5.0
+Mumps,2017,Hospitalizations,3.0,260.0,1.15384615384615
+Mumps,2018,Hospitalizations,1.0,92.0,1.08695652173913
+Mumps,2019,Hospitalizations,1.0,77.0,1.2987012987013
+Mumps,2020,Hospitalizations,3.0,54.0,5.55555555555556
+Mumps,2021,Hospitalizations,2.0,6.0,33.3333333333333
+Mumps,2022,Hospitalizations,1.0,24.0,4.16666666666667
+Mumps,2023,Hospitalizations,3.0,32.0,9.375
+Mumps,2024,Hospitalizations,4.0,98.0,4.08163265306122
+Mumps,2025,Hospitalizations,2.0,35.0,5.71428571428571
+Paratyphoid Fever,2016,Deaths,0.0,31.0,0.0
+Paratyphoid Fever,2017,Deaths,0.0,33.0,0.0
+Paratyphoid Fever,2018,Deaths,0.0,27.0,0.0
+Paratyphoid Fever,2019,Deaths,1.0,48.0,2.08333333333333
+Paratyphoid Fever,2020,Deaths,0.0,28.0,0.0
+Paratyphoid Fever,2021,Deaths,0.0,13.0,0.0
+Paratyphoid Fever,2022,Deaths,0.0,59.0,0.0
+Paratyphoid Fever,2023,Deaths,0.0,87.0,0.0
+Paratyphoid Fever,2024,Deaths,0.0,66.0,0.0
+Paratyphoid Fever,2025,Deaths,0.0,68.0,0.0
+Paratyphoid Fever,2016,Hospitalizations,12.0,31.0,38.7096774193548
+Paratyphoid Fever,2017,Hospitalizations,18.0,33.0,54.5454545454545
+Paratyphoid Fever,2018,Hospitalizations,6.0,27.0,22.2222222222222
+Paratyphoid Fever,2019,Hospitalizations,15.0,48.0,31.25
+Paratyphoid Fever,2020,Hospitalizations,11.0,28.0,39.2857142857143
+Paratyphoid Fever,2021,Hospitalizations,5.0,13.0,38.4615384615385
+Paratyphoid Fever,2022,Hospitalizations,36.0,59.0,61.0169491525424
+Paratyphoid Fever,2023,Hospitalizations,38.0,87.0,43.6781609195402
+Paratyphoid Fever,2024,Hospitalizations,30.0,66.0,45.4545454545455
+Paratyphoid Fever,2025,Hospitalizations,28.0,68.0,41.1764705882353
+Pertussis (Whooping Cough),2016,Deaths,0.0,464.0,0.0
+Pertussis (Whooping Cough),2017,Deaths,1.0,586.0,0.170648464163823
+Pertussis (Whooping Cough),2018,Deaths,3.0,388.0,0.77319587628866
+Pertussis (Whooping Cough),2019,Deaths,0.0,462.0,0.0
+Pertussis (Whooping Cough),2020,Deaths,0.0,110.0,0.0
+Pertussis (Whooping Cough),2021,Deaths,0.0,16.0,0.0
+Pertussis (Whooping Cough),2022,Deaths,0.0,159.0,0.0
+Pertussis (Whooping Cough),2023,Deaths,2.0,369.0,0.5420054200542
+Pertussis (Whooping Cough),2024,Deaths,2.0,1730.0,0.115606936416185
+Pertussis (Whooping Cough),2025,Deaths,0.0,187.0,0.0
+Pertussis (Whooping Cough),2016,Hospitalizations,30.0,464.0,6.46551724137931
+Pertussis (Whooping Cough),2017,Hospitalizations,34.0,586.0,5.80204778156997
+Pertussis (Whooping Cough),2018,Hospitalizations,34.0,388.0,8.76288659793814
+Pertussis (Whooping Cough),2019,Hospitalizations,28.0,462.0,6.06060606060606
+Pertussis (Whooping Cough),2020,Hospitalizations,4.0,110.0,3.63636363636364
+Pertussis (Whooping Cough),2021,Hospitalizations,2.0,16.0,12.5
+Pertussis (Whooping Cough),2022,Hospitalizations,20.0,159.0,12.5786163522013
+Pertussis (Whooping Cough),2023,Hospitalizations,27.0,369.0,7.31707317073171
+Pertussis (Whooping Cough),2024,Hospitalizations,71.0,1730.0,4.10404624277457
+Pertussis (Whooping Cough),2025,Hospitalizations,9.0,187.0,4.81283422459893
+Salmonellosis,2016,Deaths,7.0,3104.0,0.225515463917526
+Salmonellosis,2017,Deaths,11.0,2739.0,0.401606425702811
+Salmonellosis,2018,Deaths,8.0,2677.0,0.298841987299216
+Salmonellosis,2019,Deaths,7.0,2388.0,0.293132328308208
+Salmonellosis,2020,Deaths,5.0,1516.0,0.329815303430079
+Salmonellosis,2021,Deaths,3.0,1197.0,0.25062656641604
+Salmonellosis,2022,Deaths,9.0,1781.0,0.505334081976418
+Salmonellosis,2023,Deaths,8.0,2386.0,0.335289186923722
+Salmonellosis,2024,Deaths,10.0,2616.0,0.382262996941896
+Salmonellosis,2025,Deaths,11.0,2451.0,0.448796409628723
+Salmonellosis,2016,Hospitalizations,337.0,3104.0,10.8569587628866
+Salmonellosis,2017,Hospitalizations,303.0,2739.0,11.0624315443593
+Salmonellosis,2018,Hospitalizations,327.0,2677.0,12.2151662308554
+Salmonellosis,2019,Hospitalizations,285.0,2388.0,11.9346733668342
+Salmonellosis,2020,Hospitalizations,212.0,1516.0,13.9841688654354
+Salmonellosis,2021,Hospitalizations,172.0,1197.0,14.3692564745196
+Salmonellosis,2022,Hospitalizations,233.0,1781.0,13.0825379000561
+Salmonellosis,2023,Hospitalizations,351.0,2386.0,14.7108130762783
+Salmonellosis,2024,Hospitalizations,345.0,2616.0,13.1880733944954
+Salmonellosis,2025,Hospitalizations,363.0,2451.0,14.8102815177479
+Shigellosis,2016,Deaths,0.0,364.0,0.0
+Shigellosis,2017,Deaths,1.0,307.0,0.325732899022801
+Shigellosis,2018,Deaths,0.0,318.0,0.0
+Shigellosis,2019,Deaths,0.0,283.0,0.0
+Shigellosis,2020,Deaths,0.0,167.0,0.0
+Shigellosis,2021,Deaths,0.0,126.0,0.0
+Shigellosis,2022,Deaths,0.0,248.0,0.0
+Shigellosis,2023,Deaths,0.0,263.0,0.0
+Shigellosis,2024,Deaths,0.0,273.0,0.0
+Shigellosis,2025,Deaths,1.0,332.0,0.301204819277108
+Shigellosis,2016,Hospitalizations,44.0,364.0,12.0879120879121
+Shigellosis,2017,Hospitalizations,35.0,307.0,11.400651465798
+Shigellosis,2018,Hospitalizations,38.0,318.0,11.9496855345912
+Shigellosis,2019,Hospitalizations,36.0,283.0,12.7208480565371
+Shigellosis,2020,Hospitalizations,26.0,167.0,15.5688622754491
+Shigellosis,2021,Hospitalizations,33.0,126.0,26.1904761904762
+Shigellosis,2022,Hospitalizations,32.0,248.0,12.9032258064516
+Shigellosis,2023,Hospitalizations,48.0,263.0,18.2509505703422
+Shigellosis,2024,Hospitalizations,55.0,273.0,20.1465201465201
+Shigellosis,2025,Hospitalizations,75.0,332.0,22.5903614457831
+"Streptococcus pneumoniae, Invasive",2016,Deaths,119.0,1083.0,10.9879963065559
+"Streptococcus pneumoniae, Invasive",2017,Deaths,140.0,1141.0,12.2699386503067
+"Streptococcus pneumoniae, Invasive",2018,Deaths,142.0,1294.0,10.9737248840804
+"Streptococcus pneumoniae, Invasive",2019,Deaths,149.0,1275.0,11.6862745098039
+"Streptococcus pneumoniae, Invasive",2020,Deaths,72.0,682.0,10.5571847507331
+"Streptococcus pneumoniae, Invasive",2021,Deaths,65.0,655.0,9.9236641221374
+"Streptococcus pneumoniae, Invasive",2022,Deaths,129.0,1272.0,10.1415094339623
+"Streptococcus pneumoniae, Invasive",2023,Deaths,141.0,1587.0,8.88468809073724
+"Streptococcus pneumoniae, Invasive",2024,Deaths,129.0,1825.0,7.06849315068493
+"Streptococcus pneumoniae, Invasive",2025,Deaths,183.0,1919.0,9.53621677957269
+"Streptococcus pneumoniae, Invasive",2016,Hospitalizations,960.0,1083.0,88.6426592797784
+"Streptococcus pneumoniae, Invasive",2017,Hospitalizations,1020.0,1141.0,89.3952673093777
+"Streptococcus pneumoniae, Invasive",2018,Hospitalizations,1114.0,1294.0,86.0896445131376
+"Streptococcus pneumoniae, Invasive",2019,Hospitalizations,1121.0,1275.0,87.921568627451
+"Streptococcus pneumoniae, Invasive",2020,Hospitalizations,596.0,682.0,87.3900293255132
+"Streptococcus pneumoniae, Invasive",2021,Hospitalizations,564.0,655.0,86.1068702290076
+"Streptococcus pneumoniae, Invasive",2022,Hospitalizations,1066.0,1272.0,83.8050314465409
+"Streptococcus pneumoniae, Invasive",2023,Hospitalizations,1357.0,1587.0,85.5072463768116
+"Streptococcus pneumoniae, Invasive",2024,Hospitalizations,1644.0,1825.0,90.0821917808219
+"Streptococcus pneumoniae, Invasive",2025,Hospitalizations,1713.0,1919.0,89.265242313705
+Tetanus,2016,Deaths,0.0,1.0,0.0
+Tetanus,2017,Deaths,0.0,3.0,0.0
+Tetanus,2018,Deaths,0.0,0.0,0.0
+Tetanus,2019,Deaths,0.0,1.0,0.0
+Tetanus,2020,Deaths,0.0,2.0,0.0
+Tetanus,2021,Deaths,1.0,3.0,33.3333333333333
+Tetanus,2022,Deaths,1.0,2.0,50.0
+Tetanus,2023,Deaths,0.0,1.0,0.0
+Tetanus,2024,Deaths,1.0,3.0,33.3333333333333
+Tetanus,2025,Deaths,0.0,1.0,0.0
+Tetanus,2016,Hospitalizations,0.0,1.0,0.0
+Tetanus,2017,Hospitalizations,2.0,3.0,66.6666666666667
+Tetanus,2018,Hospitalizations,0.0,0.0,0.0
+Tetanus,2019,Hospitalizations,1.0,1.0,100.0
+Tetanus,2020,Hospitalizations,2.0,2.0,100.0
+Tetanus,2021,Hospitalizations,2.0,3.0,66.6666666666667
+Tetanus,2022,Hospitalizations,2.0,2.0,100.0
+Tetanus,2023,Hospitalizations,1.0,1.0,100.0
+Tetanus,2024,Hospitalizations,2.0,3.0,66.6666666666667
+Tetanus,2025,Hospitalizations,0.0,1.0,0.0
+Tuberculosis,2016,Deaths,37.0,632.0,5.85443037974684
+Tuberculosis,2017,Deaths,44.0,675.0,6.51851851851852
+Tuberculosis,2018,Deaths,44.0,667.0,6.59670164917541
+Tuberculosis,2019,Deaths,47.0,746.0,6.30026809651475
+Tuberculosis,2020,Deaths,56.0,687.0,8.15138282387191
+Tuberculosis,2021,Deaths,59.0,724.0,8.14917127071823
+Tuberculosis,2022,Deaths,54.0,782.0,6.90537084398977
+Tuberculosis,2023,Deaths,51.0,888.0,5.74324324324324
+Tuberculosis,2024,Deaths,51.0,995.0,5.12562814070352
+Tuberculosis,2025,Deaths,47.0,936.0,5.02136752136752
+Typhoid Fever,2016,Deaths,0.0,69.0,0.0
+Typhoid Fever,2017,Deaths,0.0,104.0,0.0
+Typhoid Fever,2018,Deaths,0.0,106.0,0.0
+Typhoid Fever,2019,Deaths,0.0,122.0,0.0
+Typhoid Fever,2020,Deaths,0.0,51.0,0.0
+Typhoid Fever,2021,Deaths,0.0,33.0,0.0
+Typhoid Fever,2022,Deaths,0.0,134.0,0.0
+Typhoid Fever,2023,Deaths,0.0,141.0,0.0
+Typhoid Fever,2024,Deaths,0.0,142.0,0.0
+Typhoid Fever,2025,Deaths,0.0,155.0,0.0
+Typhoid Fever,2016,Hospitalizations,37.0,69.0,53.6231884057971
+Typhoid Fever,2017,Hospitalizations,53.0,104.0,50.9615384615385
+Typhoid Fever,2018,Hospitalizations,50.0,106.0,47.1698113207547
+Typhoid Fever,2019,Hospitalizations,55.0,122.0,45.0819672131148
+Typhoid Fever,2020,Hospitalizations,38.0,51.0,74.5098039215686
+Typhoid Fever,2021,Hospitalizations,24.0,33.0,72.7272727272727
+Typhoid Fever,2022,Hospitalizations,78.0,134.0,58.2089552238806
+Typhoid Fever,2023,Hospitalizations,76.0,141.0,53.9007092198582
+Typhoid Fever,2024,Hospitalizations,86.0,142.0,60.5633802816901
+Typhoid Fever,2025,Hospitalizations,99.0,155.0,63.8709677419355
+Verotoxin Producing E. Coli Including HUS,2016,Deaths,0.0,174.0,0.0
+Verotoxin Producing E. Coli Including HUS,2017,Deaths,1.0,129.0,0.775193798449612
+Verotoxin Producing E. Coli Including HUS,2018,Deaths,2.0,174.0,1.14942528735632
+Verotoxin Producing E. Coli Including HUS,2019,Deaths,0.0,238.0,0.0
+Verotoxin Producing E. Coli Including HUS,2020,Deaths,2.0,133.0,1.50375939849624
+Verotoxin Producing E. Coli Including HUS,2021,Deaths,0.0,169.0,0.0
+Verotoxin Producing E. Coli Including HUS,2022,Deaths,1.0,203.0,0.492610837438424
+Verotoxin Producing E. Coli Including HUS,2023,Deaths,0.0,124.0,0.0
+Verotoxin Producing E. Coli Including HUS,2024,Deaths,0.0,168.0,0.0
+Verotoxin Producing E. Coli Including HUS,2025,Deaths,4.0,188.0,2.12765957446809
+Verotoxin Producing E. Coli Including HUS,2016,Hospitalizations,38.0,174.0,21.8390804597701
+Verotoxin Producing E. Coli Including HUS,2017,Hospitalizations,22.0,129.0,17.0542635658915
+Verotoxin Producing E. Coli Including HUS,2018,Hospitalizations,47.0,174.0,27.0114942528736
+Verotoxin Producing E. Coli Including HUS,2019,Hospitalizations,61.0,238.0,25.6302521008403
+Verotoxin Producing E. Coli Including HUS,2020,Hospitalizations,47.0,133.0,35.3383458646617
+Verotoxin Producing E. Coli Including HUS,2021,Hospitalizations,44.0,169.0,26.0355029585799
+Verotoxin Producing E. Coli Including HUS,2022,Hospitalizations,56.0,203.0,27.5862068965517
+Verotoxin Producing E. Coli Including HUS,2023,Hospitalizations,33.0,124.0,26.6129032258064
+Verotoxin Producing E. Coli Including HUS,2024,Hospitalizations,53.0,168.0,31.547619047619
+Verotoxin Producing E. Coli Including HUS,2025,Hospitalizations,57.0,188.0,30.3191489361702
+West Nile Virus Illness,2016,Deaths,6.0,56.0,10.7142857142857
+West Nile Virus Illness,2017,Deaths,10.0,159.0,6.28930817610063
+West Nile Virus Illness,2018,Deaths,12.0,141.0,8.51063829787234
+West Nile Virus Illness,2019,Deaths,2.0,26.0,7.69230769230769
+West Nile Virus Illness,2020,Deaths,2.0,104.0,1.92307692307692
+West Nile Virus Illness,2021,Deaths,1.0,26.0,3.84615384615385
+West Nile Virus Illness,2022,Deaths,4.0,30.0,13.3333333333333
+West Nile Virus Illness,2023,Deaths,1.0,61.0,1.63934426229508
+West Nile Virus Illness,2024,Deaths,1.0,88.0,1.13636363636364
+West Nile Virus Illness,2025,Deaths,11.0,181.0,6.07734806629834
+West Nile Virus Illness,2016,Hospitalizations,27.0,56.0,48.2142857142857
+West Nile Virus Illness,2017,Hospitalizations,64.0,159.0,40.251572327044
+West Nile Virus Illness,2018,Hospitalizations,69.0,141.0,48.936170212766
+West Nile Virus Illness,2019,Hospitalizations,12.0,26.0,46.1538461538462
+West Nile Virus Illness,2020,Hospitalizations,42.0,104.0,40.3846153846154
+West Nile Virus Illness,2021,Hospitalizations,8.0,26.0,30.7692307692308
+West Nile Virus Illness,2022,Hospitalizations,17.0,30.0,56.6666666666667
+West Nile Virus Illness,2023,Hospitalizations,37.0,61.0,60.655737704918
+West Nile Virus Illness,2024,Hospitalizations,47.0,88.0,53.4090909090909
+West Nile Virus Illness,2025,Hospitalizations,116.0,181.0,64.0883977900553
+Yersiniosis,2016,Deaths,0.0,260.0,0.0
+Yersiniosis,2017,Deaths,0.0,282.0,0.0
+Yersiniosis,2018,Deaths,1.0,303.0,0.33003300330033
+Yersiniosis,2019,Deaths,0.0,280.0,0.0
+Yersiniosis,2020,Deaths,0.0,190.0,0.0
+Yersiniosis,2021,Deaths,0.0,222.0,0.0
+Yersiniosis,2022,Deaths,0.0,211.0,0.0
+Yersiniosis,2023,Deaths,0.0,232.0,0.0
+Yersiniosis,2024,Deaths,0.0,244.0,0.0
+Yersiniosis,2025,Deaths,0.0,198.0,0.0
+Yersiniosis,2016,Hospitalizations,15.0,260.0,5.76923076923077
+Yersiniosis,2017,Hospitalizations,13.0,282.0,4.60992907801418
+Yersiniosis,2018,Hospitalizations,8.0,303.0,2.64026402640264
+Yersiniosis,2019,Hospitalizations,12.0,280.0,4.28571428571429
+Yersiniosis,2020,Hospitalizations,9.0,190.0,4.73684210526316
+Yersiniosis,2021,Hospitalizations,10.0,222.0,4.5045045045045
+Yersiniosis,2022,Hospitalizations,8.0,211.0,3.7914691943128
+Yersiniosis,2023,Hospitalizations,12.0,232.0,5.17241379310345
+Yersiniosis,2024,Hospitalizations,6.0,244.0,2.45901639344262
+Yersiniosis,2025,Hospitalizations,6.0,198.0,3.03030303030303
