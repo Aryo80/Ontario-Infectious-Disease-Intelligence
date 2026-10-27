@@ -1,17 +1,20 @@
+
 # Ontario Infectious Disease Intelligence
 
-## Live Interactive Dashboard
+Reproducible infectious-disease surveillance analytics and an interactive dashboard for Ontario (2016–2025).
 
-Explore the Ontario Infectious Disease Intelligence dashboard online.
+### 🚀 [Explore the Live Dashboard](https://ontario-infectious-disease-intelligence-honarvar.streamlit.app/)
 
-**[Launch Interactive Dashboard](https://ontario-infectious-disease-intelligence-honarvar.streamlit.app/)**
+[![Python](https://img.shields.io/badge/Python-3.11%2B-2563EB)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-0D9488)](https://streamlit.io/)
+[![Plotly](https://img.shields.io/badge/Plotly-Interactive_Charts-2563EB)](https://plotly.com/python/)
 
-Interactive visualizations, disease surveillance trends, and public health analytics.
+> **Portfolio project:** Uses aggregated surveillance data, not individual patient records. Not intended for real-time surveillance or clinical decision support.
 
+---
 
-**Reproducible infectious-disease surveillance analytics and an interactive, two-disease comparison dashboard for Ontario (2016–2025).**
+## Project Overview
 
-[![Python](https://img.shields.io/badge/Python-3.11%2B-2563EB)](https://www.python.org/) [![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-0D9488)](https://streamlit.io/) [![Plotly](https://img.shields.io/badge/Plotly-Interactive_Charts-2563EB)](https://plotly.com/python/)
 
 > **Portfolio project:** All surveillance data are aggregated, not individual patient records. This project is not a real-time surveillance service or a clinical decision-support tool.
 
