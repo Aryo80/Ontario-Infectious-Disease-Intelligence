@@ -1,10 +1,11 @@
 
 # Ontario Infectious Disease Intelligence
 
-Reproducible infectious-disease surveillance analytics and an interactive dashboard for Ontario (2016–2025).
+**Reproducible infectious-disease surveillance analytics and an interactive dashboard for Ontario (2016–2025).**
 
-### 🚀 [Explore the Live Dashboard](https://ontario-infectious-disease-intelligence-honarvar.streamlit.app/)
+###     [Explore the Live Dashboard](https://ontario-infectious-disease-intelligence-honarvar.streamlit.app/)
 
+&nbsp;
 
 [![Python](https://img.shields.io/badge/Python-3.11%2B-2563EB)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-0D9488)](https://streamlit.io/)
